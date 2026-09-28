@@ -1,16 +1,8 @@
-# Corridas em São Paulo SP (2026/Sep/25)
+# Corridas em São Paulo SP (2026/Sep/28)
 
-Gerado em: 2026-09-25 12:24:12 (horário de São Paulo — UTC-3)
+Gerado em: 2026-09-28 13:37:45 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
-
-## sábado, 26 de setembro de 2026
-
-### São Paulo
-
-| Evento | Data | Distâncias | Site | Valor |
-| --- | --- | --- | --- | --- |
-| [NIGHT RUN  NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/NIGHT+RUN++NOVO+RIO+PINHEIROS-88070) | sábado, 26 de setembro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## sábado, 03 de outubro de 2026
 
@@ -265,6 +257,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
+| [101ª CORRIDA INTERNACIONAL DE SÃO SILVESTRE](https://www.ticketsports.com.br/e/101%C2%AA+CORRIDA+INTERNACIONAL+DE+S%C3%83O+SILVESTRE+-87655) | quinta-feira, 31 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [FILIAÇÃO 2026 (BARCO) - ASSOCIAÇÃO BRASILEIRA DE WAKEBOARD](https://www.ticketsports.com.br/e/FILIA%C3%87%C3%83O+2026+(BARCO)+-+ASSOCIA%C3%87%C3%83O+BRASILEIRA+DE+WAKEBOARD-85806) | quinta-feira, 31 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## domingo, 24 de janeiro de 2027
@@ -323,13 +316,5 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [Nike SP City Marathon 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/nike-sp-city-marathon-2027) | domingo, 25 de julho de 2027 às 05:20 | 21.1K, 42.2K | iguanasports.com.br | A consultar |
-
-## domingo, 19 de setembro de 2027
-
-### São Paulo
-
-| Evento | Data | Distâncias | Site | Valor |
-| --- | --- | --- | --- | --- |
-| [2027 Nubank Ultravioleta IRONMAN 70.3 São Paulo](https://www.ticketsports.com.br/e/2027+Nubank+Ultravioleta+IRONMAN+70.3+S%C3%A3o+Paulo-88393) | domingo, 19 de setembro de 2027 | - | ticketsports.com.br | A consultar |
 
 _Via GitHub Actions — Corridas SP - by Julio Mishima CTAI)._
