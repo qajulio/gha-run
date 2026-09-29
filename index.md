@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Sep/28)
+# Corridas em São Paulo SP (2026/Sep/29)
 
-Gerado em: 2026-09-28 14:41:25 (horário de São Paulo — UTC-3)
+Gerado em: 2026-09-29 13:31:58 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -10,6 +10,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
+| [TROPICAL RUN 3KM](https://www.ticketsports.com.br/e/TROPICAL+RUN+3KM-88050) | sábado, 03 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [NIGHT RUN PINHEIROS MUSIC](https://www.ticketsports.com.br/e/NIGHT+RUN+PINHEIROS+MUSIC-88520) | sábado, 03 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## domingo, 04 de outubro de 2026
@@ -18,7 +19,6 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
-| [1ª STORM RUN - WOMANS EDITION](https://www.ticketsports.com.br/e/+1%C2%AA+STORM+RUN+-+WOMANS+EDITION-86568) | domingo, 04 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [SÃO PAULO RUN 5KM](https://www.ticketsports.com.br/e/S%C3%83O+PAULO+RUN+5KM-88049) | domingo, 04 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## sábado, 10 de outubro de 2026
@@ -92,6 +92,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [2ª CORRIDA ASSOMBRADA 2026](https://www.ticketsports.com.br/e/2%C2%AA+CORRIDA+ASSOMBRADA+2026-88094) | sábado, 31 de outubro de 2026 | - | ticketsports.com.br | A consultar |
+| [1ª NIGHT RUN HALLOWEEN](https://www.ticketsports.com.br/e/1%C2%AA+NIGHT+RUN+HALLOWEEN-88112) | sábado, 31 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [3ª NIGHT RUN PARQUE DO TROTE](https://www.ticketsports.com.br/e/3%C2%AA+NIGHT+RUN+PARQUE+DO+TROTE-88551) | sábado, 31 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## domingo, 01 de novembro de 2026
@@ -168,6 +169,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [ESPIÃS RUN 5KM](https://www.ticketsports.com.br/e/ESPI%C3%83S+RUN+5KM-88012) | sábado, 21 de novembro de 2026 | - | ticketsports.com.br | A consultar |
+| [PATRULHA KIDS VS T-REX](https://www.ticketsports.com.br/e/PATRULHA+KIDS+VS+T-REX-88572) | sábado, 21 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [TRICOLOR RUN NOTURNA 2026 -  2ª Etapa](https://www.ticketsports.com.br/e/TRICOLOR+RUN+NOTURNA+2026+-++2%C2%AA+Etapa-87210) | sábado, 21 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## domingo, 22 de novembro de 2026
@@ -316,5 +318,13 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [Nike SP City Marathon 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/nike-sp-city-marathon-2027) | domingo, 25 de julho de 2027 às 05:20 | 21.1K, 42.2K | iguanasports.com.br | A consultar |
+
+## domingo, 19 de setembro de 2027
+
+### São Paulo
+
+| Evento | Data | Distâncias | Site | Valor |
+| --- | --- | --- | --- | --- |
+| [2027 Nubank Ultravioleta IRONMAN 70.3 São Paulo](https://www.ticketsports.com.br/e/2027+Nubank+Ultravioleta+IRONMAN+70.3+S%C3%A3o+Paulo-88393) | domingo, 19 de setembro de 2027 | - | ticketsports.com.br | A consultar |
 
 _Via GitHub Actions — Corridas SP - by Julio Mishima CTAI)._
