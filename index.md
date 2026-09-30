@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Sep/29)
+# Corridas em São Paulo SP (2026/Sep/30)
 
-Gerado em: 2026-09-29 13:31:58 (horário de São Paulo — UTC-3)
+Gerado em: 2026-09-30 13:08:25 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -70,6 +70,7 @@ Corridas em São Paulo SP hoje:
 | [URBAN TRAIL RUN - ETAPA 2 PARQUE HORTO FLORESTAL](https://www.ticketsports.com.br/e/URBAN+TRAIL+RUN+-+ETAPA+2+PARQUE+HORTO+FLORESTAL-85142) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [HOPE RUN 2026](https://www.ticketsports.com.br/e/HOPE+RUN+2026-87744) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [CORRIDA PODER DE RAINHA 2026](https://www.ticketsports.com.br/e/CORRIDA+PODER+DE+RAINHA+2026-88097) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
+| [ROSA CHANGELLE - OUTUBRO ROSA](https://www.ticketsports.com.br/e/ROSA+CHANGELLE+-+OUTUBRO+ROSA-88579) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [WOMEN'S DAY OUTUBRO ROSA](https://www.ticketsports.com.br/e/WOMEN%27S+DAY+OUTUBRO+ROSA-86655) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [RITMUS  ONE2ONE](https://www.ticketsports.com.br/e/RITMUS++ONE2ONE-88476) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [UOL 30 Anos](https://www.yescom.com.br/uolrun/index.html) | domingo, 18 de outubro de 2026 | - | yescom.com.br | A consultar |
