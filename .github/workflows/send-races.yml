@@ -2,10 +2,10 @@ name: Corridas SP - GitHubActions v260923
 
 on:
   schedule:
-    - cron: '0 07 * * 1-5'
+    - cron: '0 10 * * 1-5'
   workflow_dispatch:
 
-#roda 7am seg-sex
+#roda 7am seg-sex (horario de Sao Paulo, UTC-3) -> 10:00 UTC
 
 permissions:
   contents: write

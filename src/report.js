@@ -100,14 +100,37 @@ function escapeHtml(s) {
 const MONTHS_EN = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 function formatDateStamp(date) {
-  return `${String(date.getFullYear())}/${MONTHS_EN[date.getMonth()]}/${String(date.getDate()).padStart(2, '0')}`;
+  const parts = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/Sao_Paulo',
+    year: 'numeric',
+    month: 'numeric',
+    day: 'numeric',
+  }).formatToParts(new Date(date));
+  const get = (type) => parts.find((p) => p.type === type).value;
+  return `${get('year')}/${MONTHS_EN[Number(get('month')) - 1]}/${get('day')}`;
+}
+
+function formatTimeStamp(date) {
+  const parts = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/Sao_Paulo',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hour12: false,
+    hourCycle: 'h23',
+  }).formatToParts(new Date(date));
+  const get = (type) => parts.find((p) => p.type === type).value;
+  return `${get('year')}-${get('month')}-${get('day')} ${get('hour')}:${get('minute')}:${get('second')}`;
 }
 
 function generateReport(events) {
   const unique = dedupe(events);
   const body = buildBody(unique);
   const now = new Date();
-  const dateStamp = now.toISOString().slice(0, 19).replace('T', ' ');
+  const dateStamp = formatTimeStamp(now);
   return `<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -139,7 +162,7 @@ function generateMarkdown(events) {
   const lines = [];
   lines.push(`# Corridas em São Paulo SP (${formatDateStamp(now)})`);
   lines.push('');
-  const dateStamp = now.toISOString().slice(0, 19).replace('T', ' ');
+  const dateStamp = formatTimeStamp(now);
   lines.push(`Gerado em: ${dateStamp} (horário de São Paulo — UTC-3)`);
   lines.push('');
 
