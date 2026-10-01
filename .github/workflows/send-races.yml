@@ -38,6 +38,35 @@ jobs:
       - name: Buscar corridas e gerar relatório
         run: node src/main.js
 
+      - name: Fechar issues de dias anteriores
+        uses: actions/github-script@v7
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const spDate = new Date(new Date().toLocaleString('en-US', { timeZone: 'America/Sao_Paulo' }));
+            const day = String(spDate.getDate()).padStart(2, '0');
+            const month = String(spDate.getMonth() + 1).padStart(2, '0');
+            const today = `${spDate.getFullYear()}/${month}/${day}`;
+            const { data: issues } = await github.paginate(github.rest.issues.listForRepo, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: 'reportrun',
+              state: 'open',
+              per_page: 100
+            });
+            const stale = issues.filter(i => !i.pull_request && !String(i.title).includes(today));
+            for (const issue of stale) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed',
+                state_reason: 'completed'
+              });
+              core.info(`Issue #${issue.number} fechada: ${issue.title}`);
+            }
+            core.info(`${stale.length} issue(s) anterior(is) fechada(s).`);
+
       - name: Criar Issue de alerta
         uses: actions/github-script@v7
         with:
