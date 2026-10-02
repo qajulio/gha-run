@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Sep/30)
+# Corridas em São Paulo SP (2026/Oct/2)
 
-Gerado em: 2026-09-30 13:08:25 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-02 16:28:35 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -10,7 +10,6 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
-| [TROPICAL RUN 3KM](https://www.ticketsports.com.br/e/TROPICAL+RUN+3KM-88050) | sábado, 03 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [NIGHT RUN PINHEIROS MUSIC](https://www.ticketsports.com.br/e/NIGHT+RUN+PINHEIROS+MUSIC-88520) | sábado, 03 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## domingo, 04 de outubro de 2026
@@ -35,11 +34,11 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
-| [64ª CORRIDA E CAMINHADA CONTRA O CÂNCER DE MAMA SÃO PAULO](https://www.ticketsports.com.br/e/64%C2%AA+CORRIDA+E+CAMINHADA+CONTRA+O+C%C3%82NCER+DE+MAMA+S%C3%83O+PAULO-87150) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
+| [3º CIRCUITO DOS PARQUES - PARQUE BRUNO COVAS](https://www.ticketsports.com.br/e/3%C2%BA+CIRCUITO+DOS+PARQUES+-+PARQUE+BRUNO+COVAS-88072) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [2º TROTE DO MAZZEI](https://www.ticketsports.com.br/e/2%C2%BA+TROTE+DO+MAZZEI-88176) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
+| [10ª CORRIDA MARGINAL PINHEIROS](https://www.ticketsports.com.br/e/10%C2%AA+CORRIDA+MARGINAL+PINHEIROS-88264) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [2ª CORRIDA SOLIDÁRIA BELINELLI](https://www.ticketsports.com.br/e/2%C2%AA+CORRIDA+SOLID%C3%81RIA+BELINELLI-88281) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [VILLA RUN](https://www.ticketsports.com.br/e/VILLA+RUN-88186) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
-| [2ª INTERMOVIMENTO KIDS A CORRIDA INFANTIL DO SHOPPING INTERLAGOS](https://www.ticketsports.com.br/e/2%C2%AA+INTERMOVIMENTO+KIDS+A+CORRIDA+INFANTIL+DO+SHOPPING+INTERLAGOS-87221) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [10ª PEDALADA E CAMINHADA ROSA DO IQeB- 2026](https://www.ticketsports.com.br/e/+10%C2%AA+PEDALADA+E+CAMINHADA+ROSA+DO+IQeB-+2026-87764) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [MAROMBA RUN 5KM](https://www.ticketsports.com.br/e/MAROMBA+RUN+5KM-88036) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [64ª Corrida e Caminhada Contra o Câncer de Mama](https://www.yescom.com.br/ibcc/2026/sp/index.asp) | domingo, 11 de outubro de 2026 | - | yescom.com.br | A consultar |
@@ -162,6 +161,7 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- | --- | --- |
 | [CORRIDA KILOMBO - 2026](https://www.ticketsports.com.br/e/CORRIDA+KILOMBO+-+2026+-87079) | sexta-feira, 20 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CONSCIÊNCIA RUN 5KM](https://www.ticketsports.com.br/e/CONSCI%C3%8ANCIA+RUN+5KM-88031) | sexta-feira, 20 de novembro de 2026 | - | ticketsports.com.br | A consultar |
+| [CORRIDA DA CONSCIÊNCIA NEGRA](https://www.ticketsports.com.br/e/CORRIDA+DA+CONSCI%C3%8ANCIA+NEGRA+-88623) | sexta-feira, 20 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## sábado, 21 de novembro de 2026
 
@@ -179,10 +179,19 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
-| [MARATONAS MAJORS INTERIOR](https://www.ticketsports.com.br/e/MARATONAS+MAJORS+INTERIOR-87073) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [STORM RIDERS - ETAPA 7](https://www.ticketsports.com.br/e/STORM+RIDERS+-+ETAPA+7-74867) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [DISNEY MAGIC RUN 2026 - SÃO PAULO](https://www.ticketsports.com.br/e/DISNEY+MAGIC+RUN+2026+-+S%C3%83O+PAULO-88237) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
+| [1ª CORRIDA DA CONQUISTA](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+DA+CONQUISTA+-88624) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CORRIDA KAZAMIGAS ETAPA SÃO PAULO 2026](https://www.ticketsports.com.br/e/CORRIDA+KAZAMIGAS+ETAPA+S%C3%83O+PAULO+2026-87871) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
+
+## sábado, 28 de novembro de 2026
+
+### São Paulo
+
+| Evento | Data | Distâncias | Site | Valor |
+| --- | --- | --- | --- | --- |
+| [10ª CORRIDA NOVEMBRO AZUL](https://www.ticketsports.com.br/e/10%C2%AA+CORRIDA+NOVEMBRO+AZUL-88625) | sábado, 28 de novembro de 2026 | - | ticketsports.com.br | A consultar |
+| [1ª NIGHT RUN DOS NAMORADOS](https://www.ticketsports.com.br/e/1%C2%AA+NIGHT+RUN+DOS+NAMORADOS-88627) | sábado, 28 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## domingo, 29 de novembro de 2026
 
