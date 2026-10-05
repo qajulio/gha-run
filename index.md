@@ -1,32 +1,8 @@
-# Corridas em São Paulo SP (2026/Oct/2)
+# Corridas em São Paulo SP (2026/Oct/5)
 
-Gerado em: 2026-10-02 16:28:35 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-05 12:22:21 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
-
-## sábado, 03 de outubro de 2026
-
-### São Paulo
-
-| Evento | Data | Distâncias | Site | Valor |
-| --- | --- | --- | --- | --- |
-| [NIGHT RUN PINHEIROS MUSIC](https://www.ticketsports.com.br/e/NIGHT+RUN+PINHEIROS+MUSIC-88520) | sábado, 03 de outubro de 2026 | - | ticketsports.com.br | A consultar |
-
-## domingo, 04 de outubro de 2026
-
-### São Paulo
-
-| Evento | Data | Distâncias | Site | Valor |
-| --- | --- | --- | --- | --- |
-| [SÃO PAULO RUN 5KM](https://www.ticketsports.com.br/e/S%C3%83O+PAULO+RUN+5KM-88049) | domingo, 04 de outubro de 2026 | - | ticketsports.com.br | A consultar |
-
-## sábado, 10 de outubro de 2026
-
-### São Paulo
-
-| Evento | Data | Distâncias | Site | Valor |
-| --- | --- | --- | --- | --- |
-| [RUN FOR YOUR LIVES - A CORRIDA OFICIAL DO IRON MAIDEN (SÃO PAULO)](https://www.ticketsports.com.br/e/RUN+FOR+YOUR+LIVES+-+A+CORRIDA+OFICIAL+DO+IRON+MAIDEN+(S%C3%83O+PAULO)-86903) | sábado, 10 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## domingo, 11 de outubro de 2026
 
@@ -37,7 +13,6 @@ Corridas em São Paulo SP hoje:
 | [3º CIRCUITO DOS PARQUES - PARQUE BRUNO COVAS](https://www.ticketsports.com.br/e/3%C2%BA+CIRCUITO+DOS+PARQUES+-+PARQUE+BRUNO+COVAS-88072) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [2º TROTE DO MAZZEI](https://www.ticketsports.com.br/e/2%C2%BA+TROTE+DO+MAZZEI-88176) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [10ª CORRIDA MARGINAL PINHEIROS](https://www.ticketsports.com.br/e/10%C2%AA+CORRIDA+MARGINAL+PINHEIROS-88264) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
-| [2ª CORRIDA SOLIDÁRIA BELINELLI](https://www.ticketsports.com.br/e/2%C2%AA+CORRIDA+SOLID%C3%81RIA+BELINELLI-88281) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [VILLA RUN](https://www.ticketsports.com.br/e/VILLA+RUN-88186) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [10ª PEDALADA E CAMINHADA ROSA DO IQeB- 2026](https://www.ticketsports.com.br/e/+10%C2%AA+PEDALADA+E+CAMINHADA+ROSA+DO+IQeB-+2026-87764) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [MAROMBA RUN 5KM](https://www.ticketsports.com.br/e/MAROMBA+RUN+5KM-88036) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
@@ -121,6 +96,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [MACKRUN  2026 - ETAPA SÃO PAULO](https://www.ticketsports.com.br/e/MACKRUN++2026+-+ETAPA+S%C3%83O+PAULO-85754) | sábado, 07 de novembro de 2026 | - | ticketsports.com.br | A consultar |
+| [SPINNATION 3ª EDIÇÃO](https://www.ticketsports.com.br/e/SPINNATION+3%C2%AA+EDI%C3%87%C3%83O-88615) | sábado, 07 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## domingo, 08 de novembro de 2026
 
@@ -153,6 +129,14 @@ Corridas em São Paulo SP hoje:
 | [2ª TRIVITT RUN](https://www.ticketsports.com.br/e/2%C2%AA+TRIVITT+RUN-87366) | domingo, 15 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [BRASIL REPÚBLICA RUN 2026](https://www.ticketsports.com.br/e/BRASIL+REP%C3%9ABLICA+RUN+2026-88099) | domingo, 15 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 
+## segunda-feira, 16 de novembro de 2026
+
+### São Paulo
+
+| Evento | Data | Distâncias | Site | Valor |
+| --- | --- | --- | --- | --- |
+| [EXPERIÊNCIA DE CERVEJA, QUEIJOS E CHARCUTARIA EM SP](https://www.ticketsports.com.br/e/EXPERI%C3%8ANCIA+DE+CERVEJA%2C+QUEIJOS+E+CHARCUTARIA+EM+SP-88628) | segunda-feira, 16 de novembro de 2026 | - | ticketsports.com.br | A consultar |
+
 ## sexta-feira, 20 de novembro de 2026
 
 ### São Paulo
@@ -180,7 +164,6 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [STORM RIDERS - ETAPA 7](https://www.ticketsports.com.br/e/STORM+RIDERS+-+ETAPA+7-74867) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
-| [DISNEY MAGIC RUN 2026 - SÃO PAULO](https://www.ticketsports.com.br/e/DISNEY+MAGIC+RUN+2026+-+S%C3%83O+PAULO-88237) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [1ª CORRIDA DA CONQUISTA](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+DA+CONQUISTA+-88624) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CORRIDA KAZAMIGAS ETAPA SÃO PAULO 2026](https://www.ticketsports.com.br/e/CORRIDA+KAZAMIGAS+ETAPA+S%C3%83O+PAULO+2026-87871) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 
@@ -234,6 +217,7 @@ Corridas em São Paulo SP hoje:
 | [25ª CORRIDA PELA CIDADANIA](https://www.ticketsports.com.br/e/25%C2%AA+CORRIDA+PELA+CIDADANIA-87568) | domingo, 13 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CORRIDA CRISTO VIVE RUN 5K 2026](https://www.ticketsports.com.br/e/CORRIDA+CRISTO+VIVE+RUN+5K+2026-88101) | domingo, 13 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [44ª MONTE LÍBANO RUN](https://www.ticketsports.com.br/e/44%C2%AA+MONTE+L%C3%8DBANO+RUN-88301) | domingo, 13 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
+| [CORRIDA E CAMINHADA CONTRA A FOME 2026 - ETAPA SÃO PAULO](https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+CONTRA+A+FOME+2026+-+ETAPA+S%C3%83O+PAULO-88445) | domingo, 13 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## sábado, 19 de dezembro de 2026
 
