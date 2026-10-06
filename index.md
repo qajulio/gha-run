@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Oct/5)
+# Corridas em São Paulo SP (2026/Oct/6)
 
-Gerado em: 2026-10-05 12:22:21 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-06 13:36:03 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -164,6 +164,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [STORM RIDERS - ETAPA 7](https://www.ticketsports.com.br/e/STORM+RIDERS+-+ETAPA+7-74867) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
+| [DISNEY MAGIC RUN 2026 - SÃO PAULO](https://www.ticketsports.com.br/e/DISNEY+MAGIC+RUN+2026+-+S%C3%83O+PAULO-88237) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [1ª CORRIDA DA CONQUISTA](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+DA+CONQUISTA+-88624) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CORRIDA KAZAMIGAS ETAPA SÃO PAULO 2026](https://www.ticketsports.com.br/e/CORRIDA+KAZAMIGAS+ETAPA+S%C3%83O+PAULO+2026-87871) | domingo, 22 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 
@@ -189,6 +190,14 @@ Corridas em São Paulo SP hoje:
 | [SERTANEJO RUN SP 2026](https://www.ticketsports.com.br/e/SERTANEJO+RUN+SP+2026-87054) | domingo, 29 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [Venus Women's Half Marathon 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/venus-womens-half-marathon-2026) | domingo, 29 de novembro de 2026 às 06:00 | 10K, 15K, 21.1K, 5K | iguanasports.com.br | A consultar |
 
+## sábado, 05 de dezembro de 2026
+
+### São Paulo
+
+| Evento | Data | Distâncias | Site | Valor |
+| --- | --- | --- | --- | --- |
+| [1ª NIGHT RUN ROTA NOTURNA](https://www.ticketsports.com.br/e/1%C2%AA+NIGHT+RUN+ROTA+NOTURNA-88656) | sábado, 05 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
+
 ## domingo, 06 de dezembro de 2026
 
 ### São Paulo
@@ -204,6 +213,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
+| [30ª CORRIDA SÃO SILVESTRINHA - 2026](https://www.ticketsports.com.br/e/30%C2%AA+CORRIDA+S%C3%83O+SILVESTRINHA+-+2026-88644) | sábado, 12 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [ALEGRIA RUNNERS 5KM ...OU QUASE ISSO!!](https://www.ticketsports.com.br/e/ALEGRIA+RUNNERS+5KM+...OU+QUASE+ISSO!!-87101) | sábado, 12 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CLUBE TRIATHLON SP 2026](https://www.ticketsports.com.br/e/CLUBE+TRIATHLON+SP+2026-74775) | sábado, 12 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 
