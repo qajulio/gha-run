@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Oct/6)
+# Corridas em São Paulo SP (2026/Oct/7)
 
-Gerado em: 2026-10-06 13:36:03 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-07 14:21:08 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
