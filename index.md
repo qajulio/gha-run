@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Oct/7)
+# Corridas em São Paulo SP (2026/Oct/9)
 
-Gerado em: 2026-10-07 14:21:08 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-09 14:12:36 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -15,17 +15,7 @@ Corridas em São Paulo SP hoje:
 | [10ª CORRIDA MARGINAL PINHEIROS](https://www.ticketsports.com.br/e/10%C2%AA+CORRIDA+MARGINAL+PINHEIROS-88264) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [VILLA RUN](https://www.ticketsports.com.br/e/VILLA+RUN-88186) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [10ª PEDALADA E CAMINHADA ROSA DO IQeB- 2026](https://www.ticketsports.com.br/e/+10%C2%AA+PEDALADA+E+CAMINHADA+ROSA+DO+IQeB-+2026-87764) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
-| [MAROMBA RUN 5KM](https://www.ticketsports.com.br/e/MAROMBA+RUN+5KM-88036) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [64ª Corrida e Caminhada Contra o Câncer de Mama](https://www.yescom.com.br/ibcc/2026/sp/index.asp) | domingo, 11 de outubro de 2026 | - | yescom.com.br | A consultar |
-
-## segunda-feira, 12 de outubro de 2026
-
-### São Paulo
-
-| Evento | Data | Distâncias | Site | Valor |
-| --- | --- | --- | --- | --- |
-| [APARECIDA RUN 2026](https://www.ticketsports.com.br/e/APARECIDA+RUN+2026-88039) | segunda-feira, 12 de outubro de 2026 | - | ticketsports.com.br | A consultar |
-| [CORRIDA KIDS TRIMAIS PLACES 6º EDIÇÃO](https://www.ticketsports.com.br/e/CORRIDA+KIDS+TRIMAIS+PLACES+6%C2%BA+EDI%C3%87%C3%83O-88357) | segunda-feira, 12 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## sábado, 17 de outubro de 2026
 
@@ -45,7 +35,6 @@ Corridas em São Paulo SP hoje:
 | [HOPE RUN 2026](https://www.ticketsports.com.br/e/HOPE+RUN+2026-87744) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [CORRIDA PODER DE RAINHA 2026](https://www.ticketsports.com.br/e/CORRIDA+PODER+DE+RAINHA+2026-88097) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [ROSA CHANGELLE - OUTUBRO ROSA](https://www.ticketsports.com.br/e/ROSA+CHANGELLE+-+OUTUBRO+ROSA-88579) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
-| [WOMEN'S DAY OUTUBRO ROSA](https://www.ticketsports.com.br/e/WOMEN%27S+DAY+OUTUBRO+ROSA-86655) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [RITMUS  ONE2ONE](https://www.ticketsports.com.br/e/RITMUS++ONE2ONE-88476) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [UOL 30 Anos](https://www.yescom.com.br/uolrun/index.html) | domingo, 18 de outubro de 2026 | - | yescom.com.br | A consultar |
 | [Mizuno Athenas Run Longer 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-run-longer-2026) | domingo, 18 de outubro de 2026 às 05:30 | 14K, 21.1K, 28K, 7K | iguanasports.com.br | A consultar |
@@ -58,6 +47,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [7º AGITA ZONA SUL -  CORRIDA DE RUA E CAMINHADA](https://www.ticketsports.com.br/e/7%C2%BA+AGITA+ZONA+SUL+-++CORRIDA+DE+RUA+E+CAMINHADA-88084) | domingo, 25 de outubro de 2026 | - | ticketsports.com.br | A consultar |
+| [CORRIDA ECO RUN DO VERDE](https://www.ticketsports.com.br/e/CORRIDA+ECO+RUN+DO+VERDE-88686) | domingo, 25 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [HALLOWEEN RUN 5KM](https://www.ticketsports.com.br/e/HALLOWEEN+RUN+5KM-88011) | domingo, 25 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## sábado, 31 de outubro de 2026
@@ -204,6 +194,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
+| [15ª CORRIDA NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/15%C2%AA+CORRIDA+NOVO+RIO+PINHEIROS-88695) | domingo, 06 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [INCLUSÃO A TODA PROVA  - SP 2026](https://www.ticketsports.com.br/e/INCLUS%C3%83O+A+TODA+PROVA++-+SP+2026-85925) | domingo, 06 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [AGEN RUN 4KM E 8KM - CERET](https://www.ticketsports.com.br/e/AGEN+RUN+4KM+E+8KM+-+CERET-87878) | domingo, 06 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 
@@ -235,6 +226,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
+| [CORRIDA DO BOB ESPONJA \| ESPECIAL DE NATAL SP](https://www.ticketsports.com.br/e/CORRIDA+DO+BOB+ESPONJA+%7C+ESPECIAL+DE+NATAL+SP-88613) | sábado, 19 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [Barbie Run São Paulo](https://yescom.com.br/barbierun/2026/sp/index.html) | sábado, 19 de dezembro de 2026 | - | yescom.com.br | A consultar |
 | [1ª Hot Wheels Run](https://www.yescom.com.br/#) | sábado, 19 de dezembro de 2026 | - | yescom.com.br | A consultar |
 
@@ -289,6 +281,14 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [META REAL SOMOS UM](https://www.ticketsports.com.br/e/META+REAL+SOMOS+UM-87981) | domingo, 21 de fevereiro de 2027 | - | ticketsports.com.br | A consultar |
+
+## domingo, 14 de março de 2027
+
+### São Paulo
+
+| Evento | Data | Distâncias | Site | Valor |
+| --- | --- | --- | --- | --- |
+| [WOMEN'S DAY](https://www.ticketsports.com.br/e/WOMEN%27S+DAY-88532) | domingo, 14 de março de 2027 | - | ticketsports.com.br | A consultar |
 
 ## sábado, 03 de abril de 2027
 
