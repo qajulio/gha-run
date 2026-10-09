@@ -1,6 +1,6 @@
 # Corridas em São Paulo SP (2026/Oct/9)
 
-Gerado em: 2026-10-09 14:12:36 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-09 19:50:58 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -35,6 +35,7 @@ Corridas em São Paulo SP hoje:
 | [HOPE RUN 2026](https://www.ticketsports.com.br/e/HOPE+RUN+2026-87744) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [CORRIDA PODER DE RAINHA 2026](https://www.ticketsports.com.br/e/CORRIDA+PODER+DE+RAINHA+2026-88097) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [ROSA CHANGELLE - OUTUBRO ROSA](https://www.ticketsports.com.br/e/ROSA+CHANGELLE+-+OUTUBRO+ROSA-88579) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
+| [WOMEN'S DAY OUTUBRO ROSA](https://www.ticketsports.com.br/e/WOMEN%27S+DAY+OUTUBRO+ROSA-86655) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [RITMUS  ONE2ONE](https://www.ticketsports.com.br/e/RITMUS++ONE2ONE-88476) | domingo, 18 de outubro de 2026 | - | ticketsports.com.br | A consultar |
 | [UOL 30 Anos](https://www.yescom.com.br/uolrun/index.html) | domingo, 18 de outubro de 2026 | - | yescom.com.br | A consultar |
 | [Mizuno Athenas Run Longer 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-run-longer-2026) | domingo, 18 de outubro de 2026 às 05:30 | 14K, 21.1K, 28K, 7K | iguanasports.com.br | A consultar |
@@ -186,6 +187,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
+| [FESTIVAL DE NATAÇÃO INFANTIL](https://www.ticketsports.com.br/e/FESTIVAL+DE+NATA%C3%87%C3%83O+INFANTIL+-88501) | sábado, 05 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [1ª NIGHT RUN ROTA NOTURNA](https://www.ticketsports.com.br/e/1%C2%AA+NIGHT+RUN+ROTA+NOTURNA-88656) | sábado, 05 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 
 ## domingo, 06 de dezembro de 2026
@@ -204,6 +206,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
+| [GONZAGUINHA KIDS 2026](https://www.ticketsports.com.br/e/GONZAGUINHA+KIDS+2026-88700) | sábado, 12 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [30ª CORRIDA SÃO SILVESTRINHA - 2026](https://www.ticketsports.com.br/e/30%C2%AA+CORRIDA+S%C3%83O+SILVESTRINHA+-+2026-88644) | sábado, 12 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [ALEGRIA RUNNERS 5KM ...OU QUASE ISSO!!](https://www.ticketsports.com.br/e/ALEGRIA+RUNNERS+5KM+...OU+QUASE+ISSO!!-87101) | sábado, 12 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CLUBE TRIATHLON SP 2026](https://www.ticketsports.com.br/e/CLUBE+TRIATHLON+SP+2026-74775) | sábado, 12 de dezembro de 2026 | - | ticketsports.com.br | A consultar |
