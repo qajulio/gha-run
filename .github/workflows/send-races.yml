@@ -92,13 +92,13 @@ jobs:
             const today = `${year}/${month}/${day}`;
             const reportSection = reportContent
               ? `\n\n---\n\n${reportContent}`
-              : '\n\n⚠️ Não foi possível ler o relatório gerado.';
+              : '\n\n⚠️ Não foi possível ler o relatório.';
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: `📊 ${today} - Report Run`,
-              body: `Corrida(s) **${raceCount} ** hoje.${reportSection}\n\nO relatório completo com formatação aprimorada está disponível no GitHub Pages.\n\n---\n🤖 Gerado automaticamente via GitHub Actions — Corridas SP`,
-              assignees: ['juliomobi'],
+              body: `Corrida(s) **${raceCount} ** hoje.${reportSection}\n\nO relatório com formatação aprimorada está disponível no GitHub Pages.\n\n---\n🤖 Gerado automaticamente via GitHub Actions — Corridas SP`,
+              assignees: ['juliomobi', 'qajulio'],
               labels: ['reportrun']
             });
 
