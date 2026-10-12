@@ -1,21 +1,8 @@
-# Corridas em São Paulo SP (2026/Oct/9)
+# Corridas em São Paulo SP (2026/Oct/12)
 
-Gerado em: 2026-10-09 19:50:58 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-12 17:00:25 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
-
-## domingo, 11 de outubro de 2026
-
-### São Paulo
-
-| Evento | Data | Distâncias | Site | Valor |
-| --- | --- | --- | --- | --- |
-| [3º CIRCUITO DOS PARQUES - PARQUE BRUNO COVAS](https://www.ticketsports.com.br/e/3%C2%BA+CIRCUITO+DOS+PARQUES+-+PARQUE+BRUNO+COVAS-88072) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
-| [2º TROTE DO MAZZEI](https://www.ticketsports.com.br/e/2%C2%BA+TROTE+DO+MAZZEI-88176) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
-| [10ª CORRIDA MARGINAL PINHEIROS](https://www.ticketsports.com.br/e/10%C2%AA+CORRIDA+MARGINAL+PINHEIROS-88264) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
-| [VILLA RUN](https://www.ticketsports.com.br/e/VILLA+RUN-88186) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
-| [10ª PEDALADA E CAMINHADA ROSA DO IQeB- 2026](https://www.ticketsports.com.br/e/+10%C2%AA+PEDALADA+E+CAMINHADA+ROSA+DO+IQeB-+2026-87764) | domingo, 11 de outubro de 2026 | - | ticketsports.com.br | A consultar |
-| [64ª Corrida e Caminhada Contra o Câncer de Mama](https://www.yescom.com.br/ibcc/2026/sp/index.asp) | domingo, 11 de outubro de 2026 | - | yescom.com.br | A consultar |
 
 ## sábado, 17 de outubro de 2026
 
@@ -114,6 +101,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Distâncias | Site | Valor |
 | --- | --- | --- | --- | --- |
 | [DESAFIO MINALBA 2026](https://www.ticketsports.com.br/e/DESAFIO+MINALBA+2026-74653) | domingo, 15 de novembro de 2026 | - | ticketsports.com.br | A consultar |
+| [CORRIDA DO AFTER 2026](https://www.ticketsports.com.br/e/CORRIDA+DO+AFTER+2026-88702) | domingo, 15 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [ETAPA COIOTE - Circuito ZOO RUN](https://www.ticketsports.com.br/e/ETAPA+COIOTE+-+Circuito+ZOO+RUN-85365) | domingo, 15 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CIRCUITO DE CORRIDAS CAIXA - ETAPA SAO PAULO 2026](https://www.ticketsports.com.br/e/CIRCUITO+DE+CORRIDAS+CAIXA+-+ETAPA+SAO+PAULO+2026-86400) | domingo, 15 de novembro de 2026 | - | ticketsports.com.br | A consultar |
 | [CNEF](https://www.ticketsports.com.br/e/CNEF-87330) | domingo, 15 de novembro de 2026 | - | ticketsports.com.br | A consultar |
