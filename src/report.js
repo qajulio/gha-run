@@ -72,9 +72,7 @@ function buildBody(events) {
           <td style="padding:8px;border-bottom:1px solid #eee;vertical-align:top;">
             <strong>${link}</strong><br>
             <strong>Data:</strong> ${escapeHtml(dateStr)}<br>
-            <strong>Distâncias:</strong> ${escapeHtml(dist)}<br>
-             <strong>Site:</strong> ${escapeHtml(e.source)}<br>
-            <strong>Valor da inscrição:</strong> ${escapeHtml(priceStr)}
+             <strong>Site:</strong> ${escapeHtml(e.source)}
           </td>
         </tr>`;
       }).join('\n');
@@ -185,14 +183,12 @@ function generateMarkdown(events) {
     for (const [city, cityEvents] of cityEntries) {
       lines.push(`### ${city}`);
       lines.push('');
-      lines.push('| Evento | Data | Distâncias | Site | Valor |');
-      lines.push('| --- | --- | --- | --- | --- |');
+      lines.push('| Evento | Data | Site |');
+      lines.push('| --- | --- | --- |');
       for (const e of cityEvents) {
-        const dist = (e.distances && e.distances.length) ? e.distances.join(', ') : '-';
         const dateStr = formatDate(e.date, e.hasTime);
         const title = e.link ? `[${escapeMd(e.title)}](${e.link})` : escapeMd(e.title);
-        const priceStr = formatPrice(e.price);
-        lines.push(`| ${title} | ${escapeMd(dateStr)} | ${escapeMd(dist)} | ${escapeMd(e.source)} | ${escapeMd(priceStr)} |`);
+        lines.push(`| ${title} | ${escapeMd(dateStr)} | ${escapeMd(e.source)} |`);
       }
       lines.push('');
     }
