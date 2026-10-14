@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Oct/12)
+# Corridas em São Paulo SP (2026/Oct/14)
 
-Gerado em: 2026-10-12 17:56:04 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-14 12:32:43 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -18,12 +18,8 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [URBAN TRAIL RUN - ETAPA 2 PARQUE HORTO FLORESTAL](https://www.ticketsports.com.br/e/URBAN+TRAIL+RUN+-+ETAPA+2+PARQUE+HORTO+FLORESTAL-85142) | domingo, 18 de outubro de 2026 | ticketsports.com.br |
 | [HOPE RUN 2026](https://www.ticketsports.com.br/e/HOPE+RUN+2026-87744) | domingo, 18 de outubro de 2026 | ticketsports.com.br |
-| [CORRIDA PODER DE RAINHA 2026](https://www.ticketsports.com.br/e/CORRIDA+PODER+DE+RAINHA+2026-88097) | domingo, 18 de outubro de 2026 | ticketsports.com.br |
 | [ROSA CHANGELLE - OUTUBRO ROSA](https://www.ticketsports.com.br/e/ROSA+CHANGELLE+-+OUTUBRO+ROSA-88579) | domingo, 18 de outubro de 2026 | ticketsports.com.br |
-| [WOMEN'S DAY OUTUBRO ROSA](https://www.ticketsports.com.br/e/WOMEN%27S+DAY+OUTUBRO+ROSA-86655) | domingo, 18 de outubro de 2026 | ticketsports.com.br |
-| [RITMUS  ONE2ONE](https://www.ticketsports.com.br/e/RITMUS++ONE2ONE-88476) | domingo, 18 de outubro de 2026 | ticketsports.com.br |
 | [UOL 30 Anos](https://www.yescom.com.br/uolrun/index.html) | domingo, 18 de outubro de 2026 | yescom.com.br |
 | [Mizuno Athenas Run Longer 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-run-longer-2026) | domingo, 18 de outubro de 2026 às 05:30 | iguanasports.com.br |
 | [Bibi Athenas Kids Run Longer 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-kids-run-longer-2026) | domingo, 18 de outubro de 2026 às 08:30 | iguanasports.com.br |
@@ -106,7 +102,6 @@ Corridas em São Paulo SP hoje:
 | [CIRCUITO DE CORRIDAS CAIXA - ETAPA SAO PAULO 2026](https://www.ticketsports.com.br/e/CIRCUITO+DE+CORRIDAS+CAIXA+-+ETAPA+SAO+PAULO+2026-86400) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [CNEF](https://www.ticketsports.com.br/e/CNEF-87330) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [2ª TRIVITT RUN](https://www.ticketsports.com.br/e/2%C2%AA+TRIVITT+RUN-87366) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
-| [BRASIL REPÚBLICA RUN 2026](https://www.ticketsports.com.br/e/BRASIL+REP%C3%9ABLICA+RUN+2026-88099) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 
 ## segunda-feira, 16 de novembro de 2026
 
@@ -132,6 +127,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
+| [OUTUBRO ROSA E NOVEMBRO AZUL](https://www.ticketsports.com.br/e/OUTUBRO+ROSA+E+NOVEMBRO+AZUL-88726) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 | [ESPIÃS RUN 5KM](https://www.ticketsports.com.br/e/ESPI%C3%83S+RUN+5KM-88012) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 | [PATRULHA KIDS VS T-REX](https://www.ticketsports.com.br/e/PATRULHA+KIDS+VS+T-REX-88572) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 | [TRICOLOR RUN NOTURNA 2026 -  2ª Etapa](https://www.ticketsports.com.br/e/TRICOLOR+RUN+NOTURNA+2026+-++2%C2%AA+Etapa-87210) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
@@ -164,7 +160,6 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [CORRIDA CENTENÁRIA](https://www.ticketsports.com.br/e/CORRIDA+CENTEN%C3%81RIA-88283) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [IMPERIUM RUN CORRIDA DE RUA](https://www.ticketsports.com.br/e/IMPERIUM+RUN+CORRIDA+DE+RUA-88168) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
-| [CORRIDA DO DISTRITO DE INOVAÇÃO DE SÃO PAULO](https://www.ticketsports.com.br/e/CORRIDA+DO+DISTRITO+DE+INOVA%C3%87%C3%83O+DE+S%C3%83O+PAULO-88294) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [RAIZES ANCESTRAIS](https://www.ticketsports.com.br/e/RAIZES+ANCESTRAIS+-88323) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [SERTANEJO RUN SP 2026](https://www.ticketsports.com.br/e/SERTANEJO+RUN+SP+2026-87054) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [Venus Women's Half Marathon 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/venus-womens-half-marathon-2026) | domingo, 29 de novembro de 2026 às 06:00 | iguanasports.com.br |
