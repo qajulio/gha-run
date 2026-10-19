@@ -1,16 +1,8 @@
-# Corridas em São Paulo SP (2026/Oct/16)
+# Corridas em São Paulo SP (2026/Oct/19)
 
-Gerado em: 2026-10-16 12:01:18 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-19 14:12:06 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
-
-## sábado, 17 de outubro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [ROSAS RUN 3KM](https://www.ticketsports.com.br/e/ROSAS+RUN+3KM-88041) | sábado, 17 de outubro de 2026 | ticketsports.com.br |
 
 ## domingo, 18 de outubro de 2026
 
@@ -18,8 +10,6 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [ROSA CHANGELLE - OUTUBRO ROSA](https://www.ticketsports.com.br/e/ROSA+CHANGELLE+-+OUTUBRO+ROSA-88579) | domingo, 18 de outubro de 2026 | ticketsports.com.br |
-| [UOL 30 Anos](https://www.yescom.com.br/uolrun/index.html) | domingo, 18 de outubro de 2026 | yescom.com.br |
 | [Mizuno Athenas Run Longer 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-run-longer-2026) | domingo, 18 de outubro de 2026 às 05:30 | iguanasports.com.br |
 | [Bibi Athenas Kids Run Longer 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-kids-run-longer-2026) | domingo, 18 de outubro de 2026 às 08:30 | iguanasports.com.br |
 
@@ -101,6 +91,7 @@ Corridas em São Paulo SP hoje:
 | [CNEF](https://www.ticketsports.com.br/e/CNEF-87330) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [2ª TRIVITT RUN](https://www.ticketsports.com.br/e/2%C2%AA+TRIVITT+RUN-87366) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [BRASIL REPÚBLICA RUN 2026](https://www.ticketsports.com.br/e/BRASIL+REP%C3%9ABLICA+RUN+2026-88099) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
+| [1ª CORRIDA E CAMINHADA Panobianco Engenheiro Goulart   Robrú   Nordestina](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+E+CAMINHADA+Panobianco+Engenheiro+Goulart+++Robr%C3%BA+++Nordestina-88746) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 
 ## sexta-feira, 20 de novembro de 2026
 
