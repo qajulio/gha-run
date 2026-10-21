@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Oct/19)
+# Corridas em São Paulo SP (2026/Oct/21)
 
-Gerado em: 2026-10-19 14:12:06 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-21 12:39:21 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -57,7 +57,6 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [MACKRUN  2026 - ETAPA SÃO PAULO](https://www.ticketsports.com.br/e/MACKRUN++2026+-+ETAPA+S%C3%83O+PAULO-85754) | sábado, 07 de novembro de 2026 | ticketsports.com.br |
 | [SPINNATION 3ª EDIÇÃO](https://www.ticketsports.com.br/e/SPINNATION+3%C2%AA+EDI%C3%87%C3%83O-88615) | sábado, 07 de novembro de 2026 | ticketsports.com.br |
 
 ## domingo, 08 de novembro de 2026
@@ -92,6 +91,14 @@ Corridas em São Paulo SP hoje:
 | [2ª TRIVITT RUN](https://www.ticketsports.com.br/e/2%C2%AA+TRIVITT+RUN-87366) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [BRASIL REPÚBLICA RUN 2026](https://www.ticketsports.com.br/e/BRASIL+REP%C3%9ABLICA+RUN+2026-88099) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [1ª CORRIDA E CAMINHADA Panobianco Engenheiro Goulart   Robrú   Nordestina](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+E+CAMINHADA+Panobianco+Engenheiro+Goulart+++Robr%C3%BA+++Nordestina-88746) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
+
+## segunda-feira, 16 de novembro de 2026
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [2º Máquina talks running](https://www.ticketsports.com.br/e/2%C2%BA+M%C3%A1quina+talks+running+-88422) | segunda-feira, 16 de novembro de 2026 | ticketsports.com.br |
 
 ## sexta-feira, 20 de novembro de 2026
 
