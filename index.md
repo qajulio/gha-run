@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Oct/21)
+# Corridas em São Paulo SP (2026/Oct/23)
 
-Gerado em: 2026-10-21 12:39:21 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-23 12:29:36 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -20,7 +20,6 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [CORRIDA ECO RUN DO VERDE](https://www.ticketsports.com.br/e/CORRIDA+ECO+RUN+DO+VERDE-88686) | domingo, 25 de outubro de 2026 | ticketsports.com.br |
-| [HALLOWEEN RUN 5KM](https://www.ticketsports.com.br/e/HALLOWEEN+RUN+5KM-88011) | domingo, 25 de outubro de 2026 | ticketsports.com.br |
 
 ## sábado, 31 de outubro de 2026
 
@@ -99,6 +98,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [2º Máquina talks running](https://www.ticketsports.com.br/e/2%C2%BA+M%C3%A1quina+talks+running+-88422) | segunda-feira, 16 de novembro de 2026 | ticketsports.com.br |
+| [EXPERIÊNCIA DE CERVEJA, QUEIJOS E CHARCUTARIA EM SP](https://www.ticketsports.com.br/e/EXPERI%C3%8ANCIA+DE+CERVEJA%2C+QUEIJOS+E+CHARCUTARIA+EM+SP-88628) | segunda-feira, 16 de novembro de 2026 | ticketsports.com.br |
 
 ## sexta-feira, 20 de novembro de 2026
 
