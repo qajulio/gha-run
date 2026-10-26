@@ -1,25 +1,8 @@
-# Corridas em São Paulo SP (2026/Oct/23)
+# Corridas em São Paulo SP (2026/Oct/26)
 
-Gerado em: 2026-10-23 12:29:36 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-26 14:01:22 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
-
-## domingo, 18 de outubro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Mizuno Athenas Run Longer 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-run-longer-2026) | domingo, 18 de outubro de 2026 às 05:30 | iguanasports.com.br |
-| [Bibi Athenas Kids Run Longer 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-kids-run-longer-2026) | domingo, 18 de outubro de 2026 às 08:30 | iguanasports.com.br |
-
-## domingo, 25 de outubro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [CORRIDA ECO RUN DO VERDE](https://www.ticketsports.com.br/e/CORRIDA+ECO+RUN+DO+VERDE-88686) | domingo, 25 de outubro de 2026 | ticketsports.com.br |
 
 ## sábado, 31 de outubro de 2026
 
@@ -57,6 +40,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [SPINNATION 3ª EDIÇÃO](https://www.ticketsports.com.br/e/SPINNATION+3%C2%AA+EDI%C3%87%C3%83O-88615) | sábado, 07 de novembro de 2026 | ticketsports.com.br |
+| [18ª  NIGHT RUN NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/18%C2%AA++NIGHT+RUN+NOVO+RIO+PINHEIROS-88272) | sábado, 07 de novembro de 2026 | ticketsports.com.br |
 
 ## domingo, 08 de novembro de 2026
 
@@ -66,6 +50,7 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [5ª CORRIDA E CAMINHADA UM SÓ SANGUE](https://www.ticketsports.com.br/e/5%C2%AA+CORRIDA+E+CAMINHADA+UM+S%C3%93+SANGUE-85593) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
 | [RUN RUN POWER RANGERS \| SÃO PAULO](https://www.ticketsports.com.br/e/RUN+RUN+POWER+RANGERS+%7C+S%C3%83O+PAULO-87451) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
+| [CIRCUITO DOS PARQUES - PARQUE DA JUVENTUDE](https://www.ticketsports.com.br/e/CIRCUITO+DOS+PARQUES+-+PARQUE+DA+JUVENTUDE-88250) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
 | [4ª CORRIDA E CAMINHADA SBD](https://www.ticketsports.com.br/e/4%C2%AA+CORRIDA+E+CAMINHADA+SBD+-88087) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
 
 ## sábado, 14 de novembro de 2026
@@ -75,6 +60,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [LOST AND FOUND FESTIVAL](https://www.ticketsports.com.br/e/LOST+AND+FOUND+FESTIVAL-86300) | sábado, 14 de novembro de 2026 | ticketsports.com.br |
+| [15ª NIGHT RUN NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/15%C2%AA+NIGHT+RUN+NOVO+RIO+PINHEIROS-88550) | sábado, 14 de novembro de 2026 | ticketsports.com.br |
 
 ## domingo, 15 de novembro de 2026
 
@@ -89,7 +75,7 @@ Corridas em São Paulo SP hoje:
 | [CNEF](https://www.ticketsports.com.br/e/CNEF-87330) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [2ª TRIVITT RUN](https://www.ticketsports.com.br/e/2%C2%AA+TRIVITT+RUN-87366) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [BRASIL REPÚBLICA RUN 2026](https://www.ticketsports.com.br/e/BRASIL+REP%C3%9ABLICA+RUN+2026-88099) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
-| [1ª CORRIDA E CAMINHADA Panobianco Engenheiro Goulart   Robrú   Nordestina](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+E+CAMINHADA+Panobianco+Engenheiro+Goulart+++Robr%C3%BA+++Nordestina-88746) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
+| [1ª CORRIDA E CAMINHADA PANOBIANCO - ENGENHEIRO GOULART \| ROBRÚ \| NORDESTINA](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+E+CAMINHADA+PANOBIANCO+-+ENGENHEIRO+GOULART+%7C+ROBR%C3%9A+%7C+NORDESTINA-88746) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 
 ## segunda-feira, 16 de novembro de 2026
 
@@ -97,7 +83,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [2º Máquina talks running](https://www.ticketsports.com.br/e/2%C2%BA+M%C3%A1quina+talks+running+-88422) | segunda-feira, 16 de novembro de 2026 | ticketsports.com.br |
+| [2º Máquina talks running 2026](https://www.ticketsports.com.br/e/2%C2%BA+M%C3%A1quina+talks+running+2026-88422) | segunda-feira, 16 de novembro de 2026 | ticketsports.com.br |
 | [EXPERIÊNCIA DE CERVEJA, QUEIJOS E CHARCUTARIA EM SP](https://www.ticketsports.com.br/e/EXPERI%C3%8ANCIA+DE+CERVEJA%2C+QUEIJOS+E+CHARCUTARIA+EM+SP-88628) | segunda-feira, 16 de novembro de 2026 | ticketsports.com.br |
 
 ## sexta-feira, 20 de novembro de 2026
@@ -120,6 +106,7 @@ Corridas em São Paulo SP hoje:
 | [ESPIÃS RUN 5KM](https://www.ticketsports.com.br/e/ESPI%C3%83S+RUN+5KM-88012) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 | [PATRULHA KIDS VS T-REX](https://www.ticketsports.com.br/e/PATRULHA+KIDS+VS+T-REX-88572) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 | [TRICOLOR RUN NOTURNA 2026 -  2ª Etapa](https://www.ticketsports.com.br/e/TRICOLOR+RUN+NOTURNA+2026+-++2%C2%AA+Etapa-87210) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
+| [NIGHT RUN OUTUBRO ROSA E NOVEMBRO AZUL](https://www.ticketsports.com.br/e/NIGHT+RUN+OUTUBRO+ROSA+E+NOVEMBRO+AZUL-88391) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 
 ## domingo, 22 de novembro de 2026
 
@@ -233,12 +220,21 @@ Corridas em São Paulo SP hoje:
 | [101ª CORRIDA INTERNACIONAL DE SÃO SILVESTRE](https://www.ticketsports.com.br/e/101%C2%AA+CORRIDA+INTERNACIONAL+DE+S%C3%83O+SILVESTRE+-87655) | quinta-feira, 31 de dezembro de 2026 | ticketsports.com.br |
 | [FILIAÇÃO 2026 (BARCO) - ASSOCIAÇÃO BRASILEIRA DE WAKEBOARD](https://www.ticketsports.com.br/e/FILIA%C3%87%C3%83O+2026+(BARCO)+-+ASSOCIA%C3%87%C3%83O+BRASILEIRA+DE+WAKEBOARD-85806) | quinta-feira, 31 de dezembro de 2026 | ticketsports.com.br |
 
+## domingo, 10 de janeiro de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [SAMPA RUN 5KM](https://www.ticketsports.com.br/e/SAMPA+RUN+5KM-88815) | domingo, 10 de janeiro de 2027 | ticketsports.com.br |
+
 ## domingo, 24 de janeiro de 2027
 
 ### São Paulo
 
 | Evento | Data | Site |
 | --- | --- | --- |
+| [STORM RUN SUMMER EDITION 2027](https://www.ticketsports.com.br/e/STORM+RUN+SUMMER+EDITION+2027-88713) | domingo, 24 de janeiro de 2027 | ticketsports.com.br |
 | [20ª Meia Maratona Int'l de São Paulo](https://www.yescom.com.br/meiasp/2027/index.asp) | domingo, 24 de janeiro de 2027 | yescom.com.br |
 
 ## segunda-feira, 25 de janeiro de 2027
@@ -263,7 +259,15 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [WOMEN'S DAY](https://www.ticketsports.com.br/e/WOMEN%27S+DAY-88532) | domingo, 14 de março de 2027 | ticketsports.com.br |
+| [WOMEN'S DAY - 2027](https://www.ticketsports.com.br/e/WOMEN%27S+DAY+-+2027-88532) | domingo, 14 de março de 2027 | ticketsports.com.br |
+
+## domingo, 28 de março de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [NEW BALANCE 15K SÃO PAULO - 2027](https://www.ticketsports.com.br/e/NEW+BALANCE+15K+S%C3%83O+PAULO+-+2027-88774) | domingo, 28 de março de 2027 | ticketsports.com.br |
 
 ## sábado, 03 de abril de 2027
 
