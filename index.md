@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Oct/28)
+# Corridas em São Paulo SP (2026/Oct/30)
 
-Gerado em: 2026-10-28 13:50:18 (horário de São Paulo — UTC-3)
+Gerado em: 2026-10-30 13:49:45 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -10,9 +10,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [2ª CORRIDA ASSOMBRADA 2026](https://www.ticketsports.com.br/e/2%C2%AA+CORRIDA+ASSOMBRADA+2026-88094) | sábado, 31 de outubro de 2026 | ticketsports.com.br |
 | [1ª NIGHT RUN HALLOWEEN](https://www.ticketsports.com.br/e/1%C2%AA+NIGHT+RUN+HALLOWEEN-88112) | sábado, 31 de outubro de 2026 | ticketsports.com.br |
-| [3ª NIGHT RUN PARQUE DO TROTE](https://www.ticketsports.com.br/e/3%C2%AA+NIGHT+RUN+PARQUE+DO+TROTE-88551) | sábado, 31 de outubro de 2026 | ticketsports.com.br |
 
 ## domingo, 01 de novembro de 2026
 
@@ -21,7 +19,6 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [1ª PARQUE RUN - ETAPA BRUNO COVAS](https://www.ticketsports.com.br/e/1%C2%AA+PARQUE+RUN+-+ETAPA+BRUNO+COVAS+-88552) | domingo, 01 de novembro de 2026 | ticketsports.com.br |
-| [BTG PACTUAL BIKE SERIES SÃO PAULO 2026](https://www.ticketsports.com.br/e/BTG+PACTUAL+BIKE+SERIES+S%C3%83O+PAULO+2026-72055) | domingo, 01 de novembro de 2026 | ticketsports.com.br |
 | [32ª Corrida Mulher-Maravilha São Paulo](https://www.yescom.com.br/corridamulhermaravilha/2026/saopaulo/index.html) | domingo, 01 de novembro de 2026 | yescom.com.br |
 
 ## segunda-feira, 02 de novembro de 2026
@@ -58,6 +55,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
+| [SP MATCH RUN](https://www.ticketsports.com.br/e/SP+MATCH+RUN-88843) | sábado, 14 de novembro de 2026 | ticketsports.com.br |
 | [LOST AND FOUND FESTIVAL](https://www.ticketsports.com.br/e/LOST+AND+FOUND+FESTIVAL-86300) | sábado, 14 de novembro de 2026 | ticketsports.com.br |
 | [15ª NIGHT RUN NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/15%C2%AA+NIGHT+RUN+NOVO+RIO+PINHEIROS-88550) | sábado, 14 de novembro de 2026 | ticketsports.com.br |
 
@@ -188,6 +186,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [CORRIDA DO BOB ESPONJA \| ESPECIAL DE NATAL SP](https://www.ticketsports.com.br/e/CORRIDA+DO+BOB+ESPONJA+%7C+ESPECIAL+DE+NATAL+SP-88613) | sábado, 19 de dezembro de 2026 | ticketsports.com.br |
+| [NIGHT RUN TIETÊ](https://www.ticketsports.com.br/e/NIGHT+RUN+TIET%C3%8A+-88857) | sábado, 19 de dezembro de 2026 | ticketsports.com.br |
 | [Barbie Run São Paulo](https://yescom.com.br/barbierun/2026/sp/index.html) | sábado, 19 de dezembro de 2026 | yescom.com.br |
 | [1ª Hot Wheels Run](https://www.yescom.com.br/#) | sábado, 19 de dezembro de 2026 | yescom.com.br |
 
@@ -253,23 +252,13 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [TROFÉU CIDADE DE SÃO PAULO DROGASIL](https://www.ticketsports.com.br/e/TROF%C3%89U+CIDADE+DE+S%C3%83O+PAULO+DROGASIL-87541) | segunda-feira, 25 de janeiro de 2027 | ticketsports.com.br |
 
-## domingo, 21 de fevereiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [META REAL SOMOS UM](https://www.ticketsports.com.br/e/META+REAL+SOMOS+UM-87981) | domingo, 21 de fevereiro de 2027 | ticketsports.com.br |
-
 ## domingo, 14 de março de 2027
 
 ### São Paulo
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [Athenas kids Run Faster 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-kids-run-faster-2027) | domingo, 14 de março de 2027 às 00:00 | iguanasports.com.br |
 | [WOMEN'S DAY - 2027](https://www.ticketsports.com.br/e/WOMEN%27S+DAY+-+2027-88532) | domingo, 14 de março de 2027 | ticketsports.com.br |
-| [Athenas Run Faster 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-run-faster-2027) | domingo, 14 de março de 2027 às 05:30 | iguanasports.com.br |
 
 ## domingo, 28 de março de 2027
 
@@ -302,17 +291,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [Seven Run 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/seven-run) | domingo, 18 de abril de 2027 às 00:00 | iguanasports.com.br |
 | [CORRIDA DO CHAVES 2027 - ETAPA SP](https://www.ticketsports.com.br/e/CORRIDA+DO+CHAVES+2027+-+ETAPA+SP-88801) | domingo, 18 de abril de 2027 | ticketsports.com.br |
-
-## domingo, 20 de junho de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Athenas Run Stronger 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-run-stronger) | domingo, 20 de junho de 2027 às 00:00 | iguanasports.com.br |
-| [Athenas Kids Run Stronger 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-kids-run-stronger) | domingo, 20 de junho de 2027 às 00:00 | iguanasports.com.br |
 
 ## domingo, 04 de julho de 2027
 
@@ -330,14 +309,6 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [Nike SP City Marathon 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/nike-sp-city-marathon-2027) | domingo, 25 de julho de 2027 às 05:20 | iguanasports.com.br |
 
-## domingo, 29 de agosto de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Run The Bridge 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/run-the-bridge) | domingo, 29 de agosto de 2027 às 00:00 | iguanasports.com.br |
-
 ## domingo, 19 de setembro de 2027
 
 ### São Paulo
@@ -345,30 +316,5 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [2027 Nubank Ultravioleta IRONMAN 70.3 São Paulo](https://www.ticketsports.com.br/e/2027+Nubank+Ultravioleta+IRONMAN+70.3+S%C3%A3o+Paulo-88393) | domingo, 19 de setembro de 2027 | ticketsports.com.br |
-
-## domingo, 26 de setembro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [SP 10K 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/sp-10k) | domingo, 26 de setembro de 2027 às 00:00 | iguanasports.com.br |
-
-## domingo, 24 de outubro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Athenas Run Longer 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-run-longer-2027) | domingo, 24 de outubro de 2027 às 00:00 | iguanasports.com.br |
-| [Athenas Kids Run Longer 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-kids-run-longer-2027) | domingo, 24 de outubro de 2027 às 00:00 | iguanasports.com.br |
-
-## domingo, 28 de novembro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Venus Women's Half Marathon 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/venus-womens-half-marathon) | domingo, 28 de novembro de 2027 às 00:00 | iguanasports.com.br |
 
 _Via GitHub Actions — Corridas SP - by Julio Mishima CTAI)._
