@@ -1,33 +1,8 @@
-# Corridas em São Paulo SP (2026/Oct/30)
+# Corridas em São Paulo SP (2026/Nov/2)
 
-Gerado em: 2026-10-30 13:49:45 (horário de São Paulo — UTC-3)
+Gerado em: 2026-11-02 17:30:39 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
-
-## sábado, 31 de outubro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [1ª NIGHT RUN HALLOWEEN](https://www.ticketsports.com.br/e/1%C2%AA+NIGHT+RUN+HALLOWEEN-88112) | sábado, 31 de outubro de 2026 | ticketsports.com.br |
-
-## domingo, 01 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [1ª PARQUE RUN - ETAPA BRUNO COVAS](https://www.ticketsports.com.br/e/1%C2%AA+PARQUE+RUN+-+ETAPA+BRUNO+COVAS+-88552) | domingo, 01 de novembro de 2026 | ticketsports.com.br |
-| [32ª Corrida Mulher-Maravilha São Paulo](https://www.yescom.com.br/corridamulhermaravilha/2026/saopaulo/index.html) | domingo, 01 de novembro de 2026 | yescom.com.br |
-
-## segunda-feira, 02 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [ROCK  RUN 5KM](https://www.ticketsports.com.br/e/ROCK++RUN+5KM-88028) | segunda-feira, 02 de novembro de 2026 | ticketsports.com.br |
 
 ## sábado, 07 de novembro de 2026
 
@@ -44,7 +19,6 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [5ª CORRIDA E CAMINHADA UM SÓ SANGUE](https://www.ticketsports.com.br/e/5%C2%AA+CORRIDA+E+CAMINHADA+UM+S%C3%93+SANGUE-85593) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
 | [RUN RUN POWER RANGERS \| SÃO PAULO](https://www.ticketsports.com.br/e/RUN+RUN+POWER+RANGERS+%7C+S%C3%83O+PAULO-87451) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
 | [CIRCUITO DOS PARQUES - PARQUE DA JUVENTUDE](https://www.ticketsports.com.br/e/CIRCUITO+DOS+PARQUES+-+PARQUE+DA+JUVENTUDE-88250) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
 | [4ª CORRIDA E CAMINHADA SBD](https://www.ticketsports.com.br/e/4%C2%AA+CORRIDA+E+CAMINHADA+SBD+-88087) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
@@ -81,7 +55,6 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [2º Máquina talks running 2026](https://www.ticketsports.com.br/e/2%C2%BA+M%C3%A1quina+talks+running+2026-88422) | segunda-feira, 16 de novembro de 2026 | ticketsports.com.br |
-| [EXPERIÊNCIA DE CERVEJA, QUEIJOS E CHARCUTARIA EM SP](https://www.ticketsports.com.br/e/EXPERI%C3%8ANCIA+DE+CERVEJA%2C+QUEIJOS+E+CHARCUTARIA+EM+SP-88628) | segunda-feira, 16 de novembro de 2026 | ticketsports.com.br |
 
 ## sexta-feira, 20 de novembro de 2026
 
@@ -251,6 +224,14 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [TROFÉU CIDADE DE SÃO PAULO DROGASIL](https://www.ticketsports.com.br/e/TROF%C3%89U+CIDADE+DE+S%C3%83O+PAULO+DROGASIL-87541) | segunda-feira, 25 de janeiro de 2027 | ticketsports.com.br |
+
+## domingo, 21 de fevereiro de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [META REAL SOMOS UM](https://www.ticketsports.com.br/e/META+REAL+SOMOS+UM-87981) | domingo, 21 de fevereiro de 2027 | ticketsports.com.br |
 
 ## domingo, 14 de março de 2027
 
