@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Nov/2)
+# Corridas em São Paulo SP (2026/Nov/4)
 
-Gerado em: 2026-11-02 17:30:39 (horário de São Paulo — UTC-3)
+Gerado em: 2026-11-04 15:15:10 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -10,7 +10,6 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [SPINNATION 3ª EDIÇÃO](https://www.ticketsports.com.br/e/SPINNATION+3%C2%AA+EDI%C3%87%C3%83O-88615) | sábado, 07 de novembro de 2026 | ticketsports.com.br |
 | [18ª  NIGHT RUN NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/18%C2%AA++NIGHT+RUN+NOVO+RIO+PINHEIROS-88272) | sábado, 07 de novembro de 2026 | ticketsports.com.br |
 
 ## domingo, 08 de novembro de 2026
@@ -19,9 +18,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [RUN RUN POWER RANGERS \| SÃO PAULO](https://www.ticketsports.com.br/e/RUN+RUN+POWER+RANGERS+%7C+S%C3%83O+PAULO-87451) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
 | [CIRCUITO DOS PARQUES - PARQUE DA JUVENTUDE](https://www.ticketsports.com.br/e/CIRCUITO+DOS+PARQUES+-+PARQUE+DA+JUVENTUDE-88250) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
-| [4ª CORRIDA E CAMINHADA SBD](https://www.ticketsports.com.br/e/4%C2%AA+CORRIDA+E+CAMINHADA+SBD+-88087) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
 
 ## sábado, 14 de novembro de 2026
 
@@ -88,6 +85,14 @@ Corridas em São Paulo SP hoje:
 | [DISNEY MAGIC RUN 2026 - SÃO PAULO](https://www.ticketsports.com.br/e/DISNEY+MAGIC+RUN+2026+-+S%C3%83O+PAULO-88237) | domingo, 22 de novembro de 2026 | ticketsports.com.br |
 | [1ª CORRIDA DA CONQUISTA](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+DA+CONQUISTA+-88624) | domingo, 22 de novembro de 2026 | ticketsports.com.br |
 | [CORRIDA KAZAMIGAS ETAPA SÃO PAULO 2026](https://www.ticketsports.com.br/e/CORRIDA+KAZAMIGAS+ETAPA+S%C3%83O+PAULO+2026-87871) | domingo, 22 de novembro de 2026 | ticketsports.com.br |
+
+## sexta-feira, 27 de novembro de 2026
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [Clínica de Técnica de Corrida com Fabiana Murer](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/clinica-de-tecnica-de-corrida-com-fabiana-murer) | sexta-feira, 27 de novembro de 2026 às 14:00 | iguanasports.com.br |
 
 ## sábado, 28 de novembro de 2026
 
@@ -233,6 +238,14 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [META REAL SOMOS UM](https://www.ticketsports.com.br/e/META+REAL+SOMOS+UM-87981) | domingo, 21 de fevereiro de 2027 | ticketsports.com.br |
 
+## domingo, 07 de março de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| Corrida Mulher-Maravilha São Paulo | domingo, 07 de março de 2027 | yescom.com.br |
+
 ## domingo, 14 de março de 2027
 
 ### São Paulo
@@ -273,6 +286,14 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [CORRIDA DO CHAVES 2027 - ETAPA SP](https://www.ticketsports.com.br/e/CORRIDA+DO+CHAVES+2027+-+ETAPA+SP-88801) | domingo, 18 de abril de 2027 | ticketsports.com.br |
+
+## domingo, 13 de junho de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| 3ª São Paulo Classic Run | domingo, 13 de junho de 2027 | yescom.com.br |
 
 ## domingo, 04 de julho de 2027
 
