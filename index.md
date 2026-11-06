@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Nov/4)
+# Corridas em São Paulo SP (2026/Nov/6)
 
-Gerado em: 2026-11-04 15:15:10 (horário de São Paulo — UTC-3)
+Gerado em: 2026-11-06 14:42:12 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -18,7 +18,8 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [CIRCUITO DOS PARQUES - PARQUE DA JUVENTUDE](https://www.ticketsports.com.br/e/CIRCUITO+DOS+PARQUES+-+PARQUE+DA+JUVENTUDE-88250) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
+| [5ª CORRIDA E CAMINHADA UM SÓ SANGUE](https://www.ticketsports.com.br/e/5%C2%AA+CORRIDA+E+CAMINHADA+UM+S%C3%93+SANGUE-85593) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
+| [CIRCUITO DOS PARQUES - PARQUE ECOLÓgICO DE BARUERI](https://www.ticketsports.com.br/e/CIRCUITO+DOS+PARQUES+-+PARQUE+ECOL%C3%93gICO+DE+BARUERI-88250) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
 
 ## sábado, 14 de novembro de 2026
 
@@ -43,6 +44,7 @@ Corridas em São Paulo SP hoje:
 | [CNEF](https://www.ticketsports.com.br/e/CNEF-87330) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [2ª TRIVITT RUN](https://www.ticketsports.com.br/e/2%C2%AA+TRIVITT+RUN-87366) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [BRASIL REPÚBLICA RUN 2026](https://www.ticketsports.com.br/e/BRASIL+REP%C3%9ABLICA+RUN+2026-88099) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
+| [ECO RUN DO VERDE](https://www.ticketsports.com.br/e/ECO+RUN+DO+VERDE-88914) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [1ª CORRIDA E CAMINHADA PANOBIANCO - ENGENHEIRO GOULART \| ROBRÚ \| NORDESTINA](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+E+CAMINHADA+PANOBIANCO+-+ENGENHEIRO+GOULART+%7C+ROBR%C3%9A+%7C+NORDESTINA-88746) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 
 ## segunda-feira, 16 de novembro de 2026
@@ -238,6 +240,14 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [META REAL SOMOS UM](https://www.ticketsports.com.br/e/META+REAL+SOMOS+UM-87981) | domingo, 21 de fevereiro de 2027 | ticketsports.com.br |
 
+## domingo, 28 de fevereiro de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [TREINÃO CORAÇÃO EM MOVIMENTO](https://www.ticketsports.com.br/e/TREIN%C3%83O+CORA%C3%87%C3%83O+EM+MOVIMENTO+-88891) | domingo, 28 de fevereiro de 2027 | ticketsports.com.br |
+
 ## domingo, 07 de março de 2027
 
 ### São Paulo
@@ -293,7 +303,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| 3ª São Paulo Classic Run | domingo, 13 de junho de 2027 | yescom.com.br |
+| [3ª São Paulo Classic Run](https://www.yescom.com.br/classicrun/2027/index.html) | domingo, 13 de junho de 2027 | yescom.com.br |
 
 ## domingo, 04 de julho de 2027
 
