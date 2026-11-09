@@ -1,25 +1,8 @@
-# Corridas em São Paulo SP (2026/Nov/6)
+# Corridas em São Paulo SP (2026/Nov/9)
 
-Gerado em: 2026-11-06 14:42:12 (horário de São Paulo — UTC-3)
+Gerado em: 2026-11-09 18:07:30 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
-
-## sábado, 07 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [18ª  NIGHT RUN NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/18%C2%AA++NIGHT+RUN+NOVO+RIO+PINHEIROS-88272) | sábado, 07 de novembro de 2026 | ticketsports.com.br |
-
-## domingo, 08 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [5ª CORRIDA E CAMINHADA UM SÓ SANGUE](https://www.ticketsports.com.br/e/5%C2%AA+CORRIDA+E+CAMINHADA+UM+S%C3%93+SANGUE-85593) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
-| [CIRCUITO DOS PARQUES - PARQUE ECOLÓgICO DE BARUERI](https://www.ticketsports.com.br/e/CIRCUITO+DOS+PARQUES+-+PARQUE+ECOL%C3%93gICO+DE+BARUERI-88250) | domingo, 08 de novembro de 2026 | ticketsports.com.br |
 
 ## sábado, 14 de novembro de 2026
 
@@ -37,12 +20,9 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [DESAFIO MINALBA 2026](https://www.ticketsports.com.br/e/DESAFIO+MINALBA+2026-74653) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
-| [CORRIDA DO AFTER 2026](https://www.ticketsports.com.br/e/CORRIDA+DO+AFTER+2026-88702) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [ETAPA COIOTE - Circuito ZOO RUN](https://www.ticketsports.com.br/e/ETAPA+COIOTE+-+Circuito+ZOO+RUN-85365) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [CIRCUITO DE CORRIDAS CAIXA - ETAPA SAO PAULO 2026](https://www.ticketsports.com.br/e/CIRCUITO+DE+CORRIDAS+CAIXA+-+ETAPA+SAO+PAULO+2026-86400) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [CNEF](https://www.ticketsports.com.br/e/CNEF-87330) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
-| [2ª TRIVITT RUN](https://www.ticketsports.com.br/e/2%C2%AA+TRIVITT+RUN-87366) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [BRASIL REPÚBLICA RUN 2026](https://www.ticketsports.com.br/e/BRASIL+REP%C3%9ABLICA+RUN+2026-88099) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [ECO RUN DO VERDE](https://www.ticketsports.com.br/e/ECO+RUN+DO+VERDE-88914) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [1ª CORRIDA E CAMINHADA PANOBIANCO - ENGENHEIRO GOULART \| ROBRÚ \| NORDESTINA](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+E+CAMINHADA+PANOBIANCO+-+ENGENHEIRO+GOULART+%7C+ROBR%C3%9A+%7C+NORDESTINA-88746) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
@@ -113,7 +93,6 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [CORRIDA CENTENÁRIA](https://www.ticketsports.com.br/e/CORRIDA+CENTEN%C3%81RIA-88283) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [IMPERIUM RUN CORRIDA DE RUA](https://www.ticketsports.com.br/e/IMPERIUM+RUN+CORRIDA+DE+RUA-88168) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
-| [RAIZES ANCESTRAIS](https://www.ticketsports.com.br/e/RAIZES+ANCESTRAIS+-88323) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [SERTANEJO RUN SP 2026](https://www.ticketsports.com.br/e/SERTANEJO+RUN+SP+2026-87054) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [Venus Women's Half Marathon 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/venus-womens-half-marathon-2026) | domingo, 29 de novembro de 2026 às 06:00 | iguanasports.com.br |
 
@@ -254,7 +233,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| Corrida Mulher-Maravilha São Paulo | domingo, 07 de março de 2027 | yescom.com.br |
+| 33ª Corrida Mulher-Maravilha São Paulo | domingo, 07 de março de 2027 | yescom.com.br |
 
 ## domingo, 14 de março de 2027
 
@@ -297,6 +276,22 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [CORRIDA DO CHAVES 2027 - ETAPA SP](https://www.ticketsports.com.br/e/CORRIDA+DO+CHAVES+2027+-+ETAPA+SP-88801) | domingo, 18 de abril de 2027 | ticketsports.com.br |
 
+## domingo, 16 de maio de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| 9ª Corrida do Café | domingo, 16 de maio de 2027 | yescom.com.br |
+
+## domingo, 06 de junho de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| 2ª Corrida Tom e Jerry | domingo, 06 de junho de 2027 | yescom.com.br |
+
 ## domingo, 13 de junho de 2027
 
 ### São Paulo
@@ -304,6 +299,14 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [3ª São Paulo Classic Run](https://www.yescom.com.br/classicrun/2027/index.html) | domingo, 13 de junho de 2027 | yescom.com.br |
+
+## domingo, 27 de junho de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| 8ª Corrida Superman e Supergirl | domingo, 27 de junho de 2027 | yescom.com.br |
 
 ## domingo, 04 de julho de 2027
 
@@ -321,6 +324,22 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [Nike SP City Marathon 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/nike-sp-city-marathon-2027) | domingo, 25 de julho de 2027 às 05:20 | iguanasports.com.br |
 
+## domingo, 01 de agosto de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| 4ª Hello Kitty Fun Run São Paulo | domingo, 01 de agosto de 2027 | yescom.com.br |
+
+## sábado, 18 de setembro de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| 8ª Batman Run Series | sábado, 18 de setembro de 2027 | yescom.com.br |
+
 ## domingo, 19 de setembro de 2027
 
 ### São Paulo
@@ -328,5 +347,30 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [2027 Nubank Ultravioleta IRONMAN 70.3 São Paulo](https://www.ticketsports.com.br/e/2027+Nubank+Ultravioleta+IRONMAN+70.3+S%C3%A3o+Paulo-88393) | domingo, 19 de setembro de 2027 | ticketsports.com.br |
+| 16ª Corrida Cartoon São Paulo | domingo, 19 de setembro de 2027 | yescom.com.br |
+
+## domingo, 03 de outubro de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| 66ª Corrida e Caminhada Contra o Câncer de Mama | domingo, 03 de outubro de 2027 | yescom.com.br |
+
+## domingo, 17 de outubro de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| 2ª UOL Run Super 10K | domingo, 17 de outubro de 2027 | yescom.com.br |
+
+## domingo, 07 de novembro de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| 35ª Corrida Mulher-Maravilha São Paulo | domingo, 07 de novembro de 2027 | yescom.com.br |
 
 _Via GitHub Actions — Corridas SP - by Julio Mishima CTAI)._
