@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Nov/11)
+# Corridas em São Paulo SP (2026/Nov/13)
 
-Gerado em: 2026-11-11 15:06:22 (horário de São Paulo — UTC-3)
+Gerado em: 2026-11-13 15:07:57 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -20,9 +20,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [ETAPA COIOTE - Circuito ZOO RUN](https://www.ticketsports.com.br/e/ETAPA+COIOTE+-+Circuito+ZOO+RUN-85365) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
-| [CIRCUITO DE CORRIDAS CAIXA - ETAPA SAO PAULO 2026](https://www.ticketsports.com.br/e/CIRCUITO+DE+CORRIDAS+CAIXA+-+ETAPA+SAO+PAULO+2026-86400) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [CNEF](https://www.ticketsports.com.br/e/CNEF-87330) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
-| [BRASIL REPÚBLICA RUN 2026](https://www.ticketsports.com.br/e/BRASIL+REP%C3%9ABLICA+RUN+2026-88099) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [ECO RUN DO VERDE](https://www.ticketsports.com.br/e/ECO+RUN+DO+VERDE-88914) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 | [1ª CORRIDA E CAMINHADA PANOBIANCO - ENGENHEIRO GOULART \| ROBRÚ \| NORDESTINA](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+E+CAMINHADA+PANOBIANCO+-+ENGENHEIRO+GOULART+%7C+ROBR%C3%9A+%7C+NORDESTINA-88746) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
 
@@ -92,6 +90,7 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [CORRIDA CENTENÁRIA](https://www.ticketsports.com.br/e/CORRIDA+CENTEN%C3%81RIA-88283) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [IMPERIUM RUN CORRIDA DE RUA](https://www.ticketsports.com.br/e/IMPERIUM+RUN+CORRIDA+DE+RUA-88168) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
+| [RAIZES ANCESTRAIS](https://www.ticketsports.com.br/e/RAIZES+ANCESTRAIS+-88323) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [SERTANEJO RUN SP 2026](https://www.ticketsports.com.br/e/SERTANEJO+RUN+SP+2026-87054) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [Venus Women's Half Marathon 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/venus-womens-half-marathon-2026) | domingo, 29 de novembro de 2026 às 06:00 | iguanasports.com.br |
 
@@ -101,7 +100,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [LET'S HOP · RUNNING EXPERIENCE PACAEMBU  COM JAN FRODENO](https://www.ticketsports.com.br/e/LET%27S+HOP+%C2%B7+RUNNING+EXPERIENCE+PACAEMBU++COM+JAN+FRODENO+-88971) | quinta-feira, 03 de dezembro de 2026 | ticketsports.com.br |
+| [LETS HOP · RUNNING EXPERIENCE PACAEMBU  COM JAN FRODENO](https://www.ticketsports.com.br/e/LETS+HOP+%C2%B7+RUNNING+EXPERIENCE+PACAEMBU++COM+JAN+FRODENO+-88971) | quinta-feira, 03 de dezembro de 2026 | ticketsports.com.br |
 
 ## sábado, 05 de dezembro de 2026
 
