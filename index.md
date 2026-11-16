@@ -1,36 +1,8 @@
-# Corridas em São Paulo SP (2026/Nov/13)
+# Corridas em São Paulo SP (2026/Nov/16)
 
-Gerado em: 2026-11-13 15:07:57 (horário de São Paulo — UTC-3)
+Gerado em: 2026-11-16 17:41:38 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
-
-## sábado, 14 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [LOST AND FOUND FESTIVAL](https://www.ticketsports.com.br/e/LOST+AND+FOUND+FESTIVAL-86300) | sábado, 14 de novembro de 2026 | ticketsports.com.br |
-| [15ª NIGHT RUN NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/15%C2%AA+NIGHT+RUN+NOVO+RIO+PINHEIROS-88550) | sábado, 14 de novembro de 2026 | ticketsports.com.br |
-
-## domingo, 15 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [ETAPA COIOTE - Circuito ZOO RUN](https://www.ticketsports.com.br/e/ETAPA+COIOTE+-+Circuito+ZOO+RUN-85365) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
-| [CNEF](https://www.ticketsports.com.br/e/CNEF-87330) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
-| [ECO RUN DO VERDE](https://www.ticketsports.com.br/e/ECO+RUN+DO+VERDE-88914) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
-| [1ª CORRIDA E CAMINHADA PANOBIANCO - ENGENHEIRO GOULART \| ROBRÚ \| NORDESTINA](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+E+CAMINHADA+PANOBIANCO+-+ENGENHEIRO+GOULART+%7C+ROBR%C3%9A+%7C+NORDESTINA-88746) | domingo, 15 de novembro de 2026 | ticketsports.com.br |
-
-## segunda-feira, 16 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [2º Máquina talks running 2026](https://www.ticketsports.com.br/e/2%C2%BA+M%C3%A1quina+talks+running+2026-88422) | segunda-feira, 16 de novembro de 2026 | ticketsports.com.br |
 
 ## sexta-feira, 20 de novembro de 2026
 
@@ -90,7 +62,7 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [CORRIDA CENTENÁRIA](https://www.ticketsports.com.br/e/CORRIDA+CENTEN%C3%81RIA-88283) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [IMPERIUM RUN CORRIDA DE RUA](https://www.ticketsports.com.br/e/IMPERIUM+RUN+CORRIDA+DE+RUA-88168) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
-| [RAIZES ANCESTRAIS](https://www.ticketsports.com.br/e/RAIZES+ANCESTRAIS+-88323) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
+| [ECO RUN DO VERDE](https://www.ticketsports.com.br/e/ECO+RUN+DO+VERDE-88914) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [SERTANEJO RUN SP 2026](https://www.ticketsports.com.br/e/SERTANEJO+RUN+SP+2026-87054) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [Venus Women's Half Marathon 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/venus-womens-half-marathon-2026) | domingo, 29 de novembro de 2026 às 06:00 | iguanasports.com.br |
 
@@ -118,7 +90,6 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [15ª CORRIDA NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/15%C2%AA+CORRIDA+NOVO+RIO+PINHEIROS-88695) | domingo, 06 de dezembro de 2026 | ticketsports.com.br |
-| [INCLUSÃO A TODA PROVA  - SP 2026](https://www.ticketsports.com.br/e/INCLUS%C3%83O+A+TODA+PROVA++-+SP+2026-85925) | domingo, 06 de dezembro de 2026 | ticketsports.com.br |
 | [AGEN RUN 4KM E 8KM - CERET](https://www.ticketsports.com.br/e/AGEN+RUN+4KM+E+8KM+-+CERET-87878) | domingo, 06 de dezembro de 2026 | ticketsports.com.br |
 
 ## sábado, 12 de dezembro de 2026
@@ -242,6 +213,14 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [TROFÉU CIDADE DE SÃO PAULO DROGASIL](https://www.ticketsports.com.br/e/TROF%C3%89U+CIDADE+DE+S%C3%83O+PAULO+DROGASIL-87541) | segunda-feira, 25 de janeiro de 2027 | ticketsports.com.br |
+
+## sábado, 30 de janeiro de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [CORRIDA E CAMINHADA PARKINSON EM MOVIMENTO](https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+PARKINSON+EM+MOVIMENTO-88974) | sábado, 30 de janeiro de 2027 | ticketsports.com.br |
 
 ## domingo, 21 de fevereiro de 2027
 
