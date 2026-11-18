@@ -1,6 +1,6 @@
-# Corridas em São Paulo SP (2026/Nov/16)
+# Corridas em São Paulo SP (2026/Nov/18)
 
-Gerado em: 2026-11-16 17:41:38 (horário de São Paulo — UTC-3)
+Gerado em: 2026-11-18 16:07:35 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
 
@@ -22,8 +22,8 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [OUTUBRO ROSA E NOVEMBRO AZUL](https://www.ticketsports.com.br/e/OUTUBRO+ROSA+E+NOVEMBRO+AZUL-88726) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 | [ESPIÃS RUN 5KM](https://www.ticketsports.com.br/e/ESPI%C3%83S+RUN+5KM-88012) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
-| [PATRULHA KIDS VS T-REX](https://www.ticketsports.com.br/e/PATRULHA+KIDS+VS+T-REX-88572) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 | [TRICOLOR RUN NOTURNA 2026 -  2ª Etapa](https://www.ticketsports.com.br/e/TRICOLOR+RUN+NOTURNA+2026+-++2%C2%AA+Etapa-87210) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
+| [PATRULHA KIDS VS T-REX](https://www.ticketsports.com.br/e/PATRULHA+KIDS+VS+T-REX-88572) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 | [NIGHT RUN OUTUBRO ROSA E NOVEMBRO AZUL](https://www.ticketsports.com.br/e/NIGHT+RUN+OUTUBRO+ROSA+E+NOVEMBRO+AZUL-88391) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 
 ## domingo, 22 de novembro de 2026
@@ -63,7 +63,6 @@ Corridas em São Paulo SP hoje:
 | [CORRIDA CENTENÁRIA](https://www.ticketsports.com.br/e/CORRIDA+CENTEN%C3%81RIA-88283) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [IMPERIUM RUN CORRIDA DE RUA](https://www.ticketsports.com.br/e/IMPERIUM+RUN+CORRIDA+DE+RUA-88168) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [ECO RUN DO VERDE](https://www.ticketsports.com.br/e/ECO+RUN+DO+VERDE-88914) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
-| [SERTANEJO RUN SP 2026](https://www.ticketsports.com.br/e/SERTANEJO+RUN+SP+2026-87054) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [Venus Women's Half Marathon 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/venus-womens-half-marathon-2026) | domingo, 29 de novembro de 2026 às 06:00 | iguanasports.com.br |
 
 ## quinta-feira, 03 de dezembro de 2026
@@ -90,7 +89,9 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [15ª CORRIDA NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/15%C2%AA+CORRIDA+NOVO+RIO+PINHEIROS-88695) | domingo, 06 de dezembro de 2026 | ticketsports.com.br |
-| [AGEN RUN 4KM E 8KM - CERET](https://www.ticketsports.com.br/e/AGEN+RUN+4KM+E+8KM+-+CERET-87878) | domingo, 06 de dezembro de 2026 | ticketsports.com.br |
+| [INCLUSÃO A TODA PROVA  - SP 2026](https://www.ticketsports.com.br/e/INCLUS%C3%83O+A+TODA+PROVA++-+SP+2026-85925) | domingo, 06 de dezembro de 2026 | ticketsports.com.br |
+| [AGENDA RUN 4KM E 8KM - CERET](https://www.ticketsports.com.br/e/AGENDA+RUN+4KM+E+8KM+-+CERET-87878) | domingo, 06 de dezembro de 2026 | ticketsports.com.br |
+| [ESPETÁCULO DE DANÇA](https://www.ticketsports.com.br/e/ESPET%C3%81CULO+DE+DAN%C3%87A-87318) | domingo, 06 de dezembro de 2026 | ticketsports.com.br |
 
 ## sábado, 12 de dezembro de 2026
 
@@ -98,9 +99,11 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
+| [1ª CORRIDA DOS NAMORADOS](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+DOS+NAMORADOS+-89039) | sábado, 12 de dezembro de 2026 | ticketsports.com.br |
 | [GONZAGUINHA KIDS 2026](https://www.ticketsports.com.br/e/GONZAGUINHA+KIDS+2026-88700) | sábado, 12 de dezembro de 2026 | ticketsports.com.br |
 | [30ª CORRIDA SÃO SILVESTRINHA - 2026](https://www.ticketsports.com.br/e/30%C2%AA+CORRIDA+S%C3%83O+SILVESTRINHA+-+2026-88644) | sábado, 12 de dezembro de 2026 | ticketsports.com.br |
 | [ALEGRIA RUNNERS 5KM ...OU QUASE ISSO!!](https://www.ticketsports.com.br/e/ALEGRIA+RUNNERS+5KM+...OU+QUASE+ISSO!!-87101) | sábado, 12 de dezembro de 2026 | ticketsports.com.br |
+| [19ª NIGHT RUN NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/19%C2%AA+NIGHT+RUN+NOVO+RIO+PINHEIROS-89040) | sábado, 12 de dezembro de 2026 | ticketsports.com.br |
 | [CLUBE TRIATHLON SP 2026](https://www.ticketsports.com.br/e/CLUBE+TRIATHLON+SP+2026-74775) | sábado, 12 de dezembro de 2026 | ticketsports.com.br |
 
 ## domingo, 13 de dezembro de 2026
@@ -214,14 +217,6 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [TROFÉU CIDADE DE SÃO PAULO DROGASIL](https://www.ticketsports.com.br/e/TROF%C3%89U+CIDADE+DE+S%C3%83O+PAULO+DROGASIL-87541) | segunda-feira, 25 de janeiro de 2027 | ticketsports.com.br |
 
-## sábado, 30 de janeiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [CORRIDA E CAMINHADA PARKINSON EM MOVIMENTO](https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+PARKINSON+EM+MOVIMENTO-88974) | sábado, 30 de janeiro de 2027 | ticketsports.com.br |
-
 ## domingo, 21 de fevereiro de 2027
 
 ### São Paulo
@@ -229,6 +224,14 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [META REAL SOMOS UM](https://www.ticketsports.com.br/e/META+REAL+SOMOS+UM-87981) | domingo, 21 de fevereiro de 2027 | ticketsports.com.br |
+
+## sábado, 27 de fevereiro de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [SPINNATION 3ª EDIÇÃO](https://www.ticketsports.com.br/e/SPINNATION+3%C2%AA+EDI%C3%87%C3%83O-88615) | sábado, 27 de fevereiro de 2027 | ticketsports.com.br |
 
 ## domingo, 28 de fevereiro de 2027
 
@@ -245,6 +248,14 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [33ª Corrida Mulher-Maravilha São Paulo](https://yescom.com.br/corridamulhermaravilha/2027/sp/index.html) | domingo, 07 de março de 2027 | yescom.com.br |
+
+## sábado, 13 de março de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [CORRIDA GRANADO PINK SÃO PAULO 2027](https://www.ticketsports.com.br/e/CORRIDA+GRANADO+PINK+S%C3%83O+PAULO+2027-88976) | sábado, 13 de março de 2027 | ticketsports.com.br |
 
 ## domingo, 14 de março de 2027
 
@@ -264,6 +275,14 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [NEW BALANCE 15K SÃO PAULO - 2027](https://www.ticketsports.com.br/e/NEW+BALANCE+15K+S%C3%83O+PAULO+-+2027-88774) | domingo, 28 de março de 2027 | ticketsports.com.br |
 
+## terça-feira, 30 de março de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [ETAPA COIOTE - Circuito ZOO RUN](https://www.ticketsports.com.br/e/ETAPA+COIOTE+-+Circuito+ZOO+RUN-85365) | terça-feira, 30 de março de 2027 | ticketsports.com.br |
+
 ## sábado, 03 de abril de 2027
 
 ### São Paulo
@@ -281,6 +300,14 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [31ª Maratona Int'l de São Paulo](https://www.yescom.com.br/maratonasp/2027/index.asp) | domingo, 04 de abril de 2027 | yescom.com.br |
 
+## domingo, 11 de abril de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [RUN DAY CENTRO HISTÓRICO](https://www.ticketsports.com.br/e/RUN+DAY+CENTRO+HIST%C3%93RICO+-88742) | domingo, 11 de abril de 2027 | ticketsports.com.br |
+
 ## domingo, 18 de abril de 2027
 
 ### São Paulo
@@ -289,6 +316,14 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [Seven Run 2027](https://iguanasports.com.br/products/seven-run-2027) | domingo, 18 de abril de 2027 às 00:00 | iguanasports.com.br |
 | [CORRIDA DO CHAVES 2027 - ETAPA SP](https://www.ticketsports.com.br/e/CORRIDA+DO+CHAVES+2027+-+ETAPA+SP-88801) | domingo, 18 de abril de 2027 | ticketsports.com.br |
+
+## domingo, 25 de abril de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [URBAN TRAIL RUN - PEDRA GRANDE](https://www.ticketsports.com.br/e/URBAN+TRAIL+RUN+-+PEDRA+GRANDE-88810) | domingo, 25 de abril de 2027 | ticketsports.com.br |
 
 ## domingo, 16 de maio de 2027
 
