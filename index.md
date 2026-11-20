@@ -1,18 +1,8 @@
-# Corridas em São Paulo SP (2026/Nov/18)
+# Corridas em São Paulo SP (2026/Nov/20)
 
-Gerado em: 2026-11-18 16:07:35 (horário de São Paulo — UTC-3)
+Gerado em: 2026-11-20 15:52:13 (horário de São Paulo — UTC-3)
 
 Corridas em São Paulo SP hoje:
-
-## sexta-feira, 20 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [CORRIDA KILOMBO - 2026](https://www.ticketsports.com.br/e/CORRIDA+KILOMBO+-+2026+-87079) | sexta-feira, 20 de novembro de 2026 | ticketsports.com.br |
-| [CONSCIÊNCIA RUN 5KM](https://www.ticketsports.com.br/e/CONSCI%C3%8ANCIA+RUN+5KM-88031) | sexta-feira, 20 de novembro de 2026 | ticketsports.com.br |
-| [CORRIDA DA CONSCIÊNCIA NEGRA](https://www.ticketsports.com.br/e/CORRIDA+DA+CONSCI%C3%8ANCIA+NEGRA+-88623) | sexta-feira, 20 de novembro de 2026 | ticketsports.com.br |
 
 ## sábado, 21 de novembro de 2026
 
@@ -21,9 +11,7 @@ Corridas em São Paulo SP hoje:
 | Evento | Data | Site |
 | --- | --- | --- |
 | [OUTUBRO ROSA E NOVEMBRO AZUL](https://www.ticketsports.com.br/e/OUTUBRO+ROSA+E+NOVEMBRO+AZUL-88726) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
-| [ESPIÃS RUN 5KM](https://www.ticketsports.com.br/e/ESPI%C3%83S+RUN+5KM-88012) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 | [TRICOLOR RUN NOTURNA 2026 -  2ª Etapa](https://www.ticketsports.com.br/e/TRICOLOR+RUN+NOTURNA+2026+-++2%C2%AA+Etapa-87210) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
-| [PATRULHA KIDS VS T-REX](https://www.ticketsports.com.br/e/PATRULHA+KIDS+VS+T-REX-88572) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 | [NIGHT RUN OUTUBRO ROSA E NOVEMBRO AZUL](https://www.ticketsports.com.br/e/NIGHT+RUN+OUTUBRO+ROSA+E+NOVEMBRO+AZUL-88391) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
 
 ## domingo, 22 de novembro de 2026
@@ -32,10 +20,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [STORM RIDERS - ETAPA 7](https://www.ticketsports.com.br/e/STORM+RIDERS+-+ETAPA+7-74867) | domingo, 22 de novembro de 2026 | ticketsports.com.br |
-| [DISNEY MAGIC RUN 2026 - SÃO PAULO](https://www.ticketsports.com.br/e/DISNEY+MAGIC+RUN+2026+-+S%C3%83O+PAULO-88237) | domingo, 22 de novembro de 2026 | ticketsports.com.br |
 | [1ª CORRIDA DA CONQUISTA](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+DA+CONQUISTA+-88624) | domingo, 22 de novembro de 2026 | ticketsports.com.br |
-| [CORRIDA KAZAMIGAS ETAPA SÃO PAULO 2026](https://www.ticketsports.com.br/e/CORRIDA+KAZAMIGAS+ETAPA+S%C3%83O+PAULO+2026-87871) | domingo, 22 de novembro de 2026 | ticketsports.com.br |
 
 ## sexta-feira, 27 de novembro de 2026
 
@@ -60,7 +45,6 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
-| [CORRIDA CENTENÁRIA](https://www.ticketsports.com.br/e/CORRIDA+CENTEN%C3%81RIA-88283) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [IMPERIUM RUN CORRIDA DE RUA](https://www.ticketsports.com.br/e/IMPERIUM+RUN+CORRIDA+DE+RUA-88168) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [ECO RUN DO VERDE](https://www.ticketsports.com.br/e/ECO+RUN+DO+VERDE-88914) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
 | [Venus Women's Half Marathon 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/venus-womens-half-marathon-2026) | domingo, 29 de novembro de 2026 às 06:00 | iguanasports.com.br |
@@ -217,6 +201,22 @@ Corridas em São Paulo SP hoje:
 | --- | --- | --- |
 | [TROFÉU CIDADE DE SÃO PAULO DROGASIL](https://www.ticketsports.com.br/e/TROF%C3%89U+CIDADE+DE+S%C3%83O+PAULO+DROGASIL-87541) | segunda-feira, 25 de janeiro de 2027 | ticketsports.com.br |
 
+## sábado, 30 de janeiro de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [CORRIDA E CAMINHADA PARKINSON EM MOVIMENTO](https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+PARKINSON+EM+MOVIMENTO-88974) | sábado, 30 de janeiro de 2027 | ticketsports.com.br |
+
+## domingo, 14 de fevereiro de 2027
+
+### São Paulo
+
+| Evento | Data | Site |
+| --- | --- | --- |
+| [GLITTER RUN 5KM](https://www.ticketsports.com.br/e/GLITTER+RUN+5KM-89082) | domingo, 14 de fevereiro de 2027 | ticketsports.com.br |
+
 ## domingo, 21 de fevereiro de 2027
 
 ### São Paulo
@@ -298,6 +298,7 @@ Corridas em São Paulo SP hoje:
 
 | Evento | Data | Site |
 | --- | --- | --- |
+| [SERTANEJO RUN SP 2026](https://www.ticketsports.com.br/e/SERTANEJO+RUN+SP+2026-87054) | domingo, 04 de abril de 2027 | ticketsports.com.br |
 | [31ª Maratona Int'l de São Paulo](https://www.yescom.com.br/maratonasp/2027/index.asp) | domingo, 04 de abril de 2027 | yescom.com.br |
 
 ## domingo, 11 de abril de 2027
