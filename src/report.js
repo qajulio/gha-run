@@ -54,38 +54,79 @@ function formatPrice(price) {
   return `R$ ${num.toFixed(2).replace('.', ',')}`;
 }
 
+function formatDateTable(date) {
+  if (!date || Number.isNaN(date.getTime())) return 'Data não informada';
+  const parts = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/Sao_Paulo',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).formatToParts(new Date(date));
+  const get = (type) => parts.find((p) => p.type === type).value;
+  return `${get('year')}/${get('month')}/${get('day')}`;
+}
+
+function siteUrl(event) {
+  if (event.link) {
+    try {
+      const url = new URL(event.link);
+      return `${url.origin}/`;
+    } catch (_) {
+      // Link relativo ou inválido: usa o domínio da fonte.
+    }
+  }
+  return event.source ? `https://${event.source}/` : '-';
+}
+
+function sortByDate(events) {
+  return [...events].sort((a, b) => (a.date ? a.date.getTime() : 0) - (b.date ? b.date.getTime() : 0));
+}
+
+function eventRowValues(e) {
+  const dist = (e.distances && e.distances.length) ? e.distances.join(', ') : '-';
+  return [
+    formatDateTable(e.date),
+    e.title || '-',
+    dist,
+    e.city || '-',
+    e.organizer || '-',
+    e.status || '-',
+    siteUrl(e),
+  ];
+}
+
 function buildBody(events) {
   if (!events.length) {
     return '<p>Nenhuma corrida encontrada.</p>';
   }
-  const grouped = groupByDateAndCity(events);
-  const dateGroups = grouped.map((g) => {
-    const dateStr = g.date ? formatDate(g.date, false) : 'Data não informada';
-    const cityEntries = Object.entries(g.cities).sort(([a], [b]) => a.localeCompare(b));
-    const cityHtml = cityEntries.map(([city, cityEvents]) => {
-      const rows = cityEvents.map((e) => {
-        const dist = (e.distances && e.distances.length) ? e.distances.join(', ') : '-';
-        const dateStr = formatDate(e.date, e.hasTime);
-        const priceStr = formatPrice(e.price);
-        const link = e.link ? `<a href="${e.link}">${escapeHtml(e.title)}</a>` : escapeHtml(e.title);
-        return `<tr>
-          <td style="padding:8px;border-bottom:1px solid #eee;vertical-align:top;">
-            <strong>${link}</strong><br>
-            <strong>Data:</strong> ${escapeHtml(dateStr)}<br>
-             <strong>Site:</strong> ${escapeHtml(e.source)}
-          </td>
+  const rows = sortByDate(events).map((e) => {
+    const [date, name, dist, local, org, obs, site] = eventRowValues(e);
+    return `<tr>
+          <td>${escapeHtml(date)}</td>
+          <td>${escapeHtml(name)}</td>
+          <td>${escapeHtml(dist)}</td>
+          <td>${escapeHtml(local)}</td>
+          <td>${escapeHtml(org)}</td>
+          <td>${escapeHtml(obs)}</td>
+          <td><a href="${escapeHtml(site)}">${escapeHtml(site)}</a></td>
         </tr>`;
-      }).join('\n');
-      return `<h3 style="margin:16px 0 8px;color:#444;">${escapeHtml(city)}</h3>
-<table style="border-collapse:collapse;width:100%;font-family:Arial,Helvetica,sans-serif;font-size:14px;">
-${rows}
-</table>`;
-    }).join('\n');
-    return `<h2 style="color:#333;border-bottom:1px solid #ddd;padding-bottom:6px;margin-top:24px;">${escapeHtml(dateStr)}</h2>
-${cityHtml}`;
   }).join('\n');
-  return `<p>Corridas em São Paulo-SP:</p>
-${dateGroups}
+  return `<table style="border-collapse:collapse;width:100%;font-family:Arial,Helvetica,sans-serif;font-size:14px;">
+  <thead>
+    <tr>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">DATA</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">NOME</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">DISTANCIAS</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">LOCAL</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">ORGANIZACAO</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">OBSERVACAO</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">SITE</th>
+    </tr>
+  </thead>
+  <tbody>
+${rows}
+  </tbody>
+</table>
 <p style="color:#555;font-size:12px;">By GitHub Actions — <em>Corridas SP </em>.</p>`;
 }
 
@@ -171,28 +212,15 @@ function generateMarkdown(events) {
     return lines.join('\n');
   }
 
-  lines.push('Corridas em São Paulo SP hoje:');
+  lines.push('Corridas em São Paulo SP:');
   lines.push('');
-
-  const grouped = groupByDateAndCity(unique);
-  for (const g of grouped) {
-    const dateStr = g.date ? formatDate(g.date, false) : 'Data não informada';
-    lines.push(`## ${dateStr}`);
-    lines.push('');
-    const cityEntries = Object.entries(g.cities).sort(([a], [b]) => a.localeCompare(b));
-    for (const [city, cityEvents] of cityEntries) {
-      lines.push(`### ${city}`);
-      lines.push('');
-      lines.push('| Evento | Data | Site |');
-      lines.push('| --- | --- | --- |');
-      for (const e of cityEvents) {
-        const dateStr = formatDate(e.date, e.hasTime);
-        const title = e.link ? `[${escapeMd(e.title)}](${e.link})` : escapeMd(e.title);
-        lines.push(`| ${title} | ${escapeMd(dateStr)} | ${escapeMd(e.source)} |`);
-      }
-      lines.push('');
-    }
+  lines.push('| DATA | NOME | DISTANCIAS | LOCAL | ORGANIZACAO | OBSERVACAO | SITE |');
+  lines.push('| --- | --- | --- | --- | --- | --- | --- |');
+  for (const e of sortByDate(unique)) {
+    const [date, name, dist, local, org, obs, site] = eventRowValues(e);
+    lines.push(`| ${escapeMd(date)} | ${escapeMd(name)} | ${escapeMd(dist)} | ${escapeMd(local)} | ${escapeMd(org)} | ${escapeMd(obs)} | ${escapeMd(site)} |`);
   }
+  lines.push('');
 
   lines.push('_Via GitHub Actions — Corridas SP - by Julio Mishima CTAI)._');
   return lines.join('\n');
