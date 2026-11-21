@@ -67,14 +67,7 @@ function formatDateTable(date) {
 }
 
 function siteUrl(event) {
-  if (event.link) {
-    try {
-      const url = new URL(event.link);
-      return `${url.origin}/`;
-    } catch (_) {
-      // Link relativo ou inválido: usa o domínio da fonte.
-    }
-  }
+  if (event.link) return event.link;
   return event.source ? `https://${event.source}/` : '-';
 }
 
@@ -95,45 +88,14 @@ function eventRowValues(e) {
   ];
 }
 
-function buildBody(events) {
-  if (!events.length) {
-    return '<p>Nenhuma corrida encontrada.</p>';
-  }
-  const rows = sortByDate(events).map((e) => {
-    const [date, name, dist, local, org, obs, site] = eventRowValues(e);
-    return `<tr>
-          <td>${escapeHtml(date)}</td>
-          <td>${escapeHtml(name)}</td>
-          <td>${escapeHtml(dist)}</td>
-          <td>${escapeHtml(local)}</td>
-          <td>${escapeHtml(org)}</td>
-          <td>${escapeHtml(obs)}</td>
-          <td><a href="${escapeHtml(site)}">${escapeHtml(site)}</a></td>
-        </tr>`;
-  }).join('\n');
-  return `<table style="border-collapse:collapse;width:100%;font-family:Arial,Helvetica,sans-serif;font-size:14px;">
-  <thead>
-    <tr>
-      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">DATA</th>
-      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">NOME</th>
-      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">DISTANCIAS</th>
-      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">LOCAL</th>
-      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">ORGANIZACAO</th>
-      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">OBSERVACAO</th>
-      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">SITE</th>
-    </tr>
-  </thead>
-  <tbody>
-${rows}
-  </tbody>
-</table>
-<p style="color:#555;font-size:12px;">By GitHub Actions — <em>Corridas SP </em>.</p>`;
-}
-
 function escapeHtml(s) {
   return String(s || '').replace(/[&<>"']/g, (c) => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
   }[c]));
+}
+
+function escapeMd(s) {
+  return String(s || '').replace(/\|/g, '\\|').replace(/\n/g, ' ');
 }
 
 const MONTHS_EN = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -165,69 +127,167 @@ function formatTimeStamp(date) {
   return `${get('year')}-${get('month')}-${get('day')} ${get('hour')}:${get('minute')}:${get('second')}`;
 }
 
-function generateReport(events) {
-  const unique = dedupe(events);
-  const body = buildBody(unique);
+function buildTable(events) {
+  if (!events.length) {
+    return '<p>Nenhuma corrida encontrada.</p>';
+  }
+  const rows = sortByDate(events).map((e) => {
+    const [date, name, dist, local, org, obs, site] = eventRowValues(e);
+    return `<tr>
+          <td>${escapeHtml(date)}</td>
+          <td>${escapeHtml(name)}</td>
+          <td>${escapeHtml(dist)}</td>
+          <td>${escapeHtml(local)}</td>
+          <td>${escapeHtml(org)}</td>
+          <td>${escapeHtml(obs)}</td>
+          <td><a href="${escapeHtml(site)}">${escapeHtml(site)}</a></td>
+        </tr>`;
+  }).join('\n');
+  return `<table style="border-collapse:collapse;width:100%;font-family:Arial,Helvetica,sans-serif;font-size:14px;">
+  <thead>
+    <tr>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">DATA</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">NOME</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">DISTANCIAS</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">LOCAL</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">ORGANIZACAO</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">OBSERVACAO</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">SITE</th>
+    </tr>
+  </thead>
+  <tbody>
+${rows}
+  </tbody>
+</table>`;
+}
+
+function buildTableWithFooter(events, footerText) {
+  if (!events.length) {
+    return `<p>Nenhuma corrida encontrada.</p><p style="color:#555;font-size:12px;">${footerText}</p>`;
+  }
+  const rows = sortByDate(events).map((e) => {
+    const [date, name, dist, local, org, obs, site] = eventRowValues(e);
+    return `<tr>
+          <td>${escapeHtml(date)}</td>
+          <td>${escapeHtml(name)}</td>
+          <td>${escapeHtml(dist)}</td>
+          <td>${escapeHtml(local)}</td>
+          <td>${escapeHtml(org)}</td>
+          <td>${escapeHtml(obs)}</td>
+          <td><a href="${escapeHtml(site)}">${escapeHtml(site)}</a></td>
+        </tr>`;
+  }).join('\n');
+  return `<table style="border-collapse:collapse;width:100%;font-family:Arial,Helvetica,sans-serif;font-size:14px;">
+  <thead>
+    <tr>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">DATA</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">NOME</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">DISTANCIAS</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">LOCAL</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">ORGANIZACAO</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">OBSERVACAO</th>
+      <th style="padding:8px;border-bottom:2px solid #ddd;text-align:left;">SITE</th>
+    </tr>
+  </thead>
+  <tbody>
+${rows}
+  </tbody>
+</table>
+<p style="color:#555;font-size:12px;">${footerText}</p>`;
+}
+
+function generateReport(categories) {
   const now = new Date();
   const dateStamp = formatTimeStamp(now);
+  const sections = [];
+
+  const categoryConfig = [
+    { key: 'spCapital', title: 'Corridas em São Paulo - Capital (SP)', color: '#1976D2', icon: '🏙️' },
+    { key: 'spInterior', title: 'Corridas fora de São Paulo-SP — Interior/Litoral e Brasil', color: '#388E3C', icon: '🏖️' },
+    { key: 'internacional', title: 'Corridas Internacionais', color: '#F57C00', icon: '🌍' },
+  ];
+
+  for (const cat of categoryConfig) {
+    const events = categories[cat.key] || [];
+    const unique = dedupe(events);
+    const tableHtml = buildTableWithFooter(unique,
+      `By GitHub Actions — ${cat.title} — ${unique.length} evento(s)`);
+
+    sections.push(`
+<div class="category-section">
+  <h2 style="color:${cat.color}; border-left: 4px solid ${cat.color}; padding-left: 12px; margin-top: 32px;">
+    ${cat.icon} ${cat.title} (${formatDateStamp(now)})
+  </h2>
+  ${tableHtml}
+</div>`);
+  }
+
   return `<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Corridas SP - via GIT</title>
+<title>Corridas - SP Capital, Interior/Litoral & Internacional</title>
 <style>
-  body { font-family: Arial, Helvetica, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 20px; color: #333; background: #fafafa; }
+  body { font-family: Arial, Helvetica, sans-serif; max-width: 1100px; margin: 40px auto; padding: 0 20px; color: #333; background: #fafafa; }
   h1 { color: #222; border-bottom: 2px solid #e0e0e0; padding-bottom: 10px; }
+  h2 { margin-top: 32px; }
   .meta { color: #777; font-size: 13px; margin-bottom: 20px; }
   table { background: #fff; border-radius: 6px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
   td { padding: 8px; border-bottom: 1px solid #eee; vertical-align: top; }
   .empty { text-align: center; padding: 40px; color: #999; }
+  .category-section { margin-bottom: 40px; }
   footer { margin-top: 30px; color: #aaa; font-size: 12px; text-align: center; }
 </style>
 </head>
 <body>
-<h1>Corridas em São Paulo - SP (${formatDateStamp(now)})</h1>
+<h1>🏃 Corridas — SP Capital, Interior/Litoral & Internacional (${formatDateStamp(now)})</h1>
 <p class="meta">Gerado em: ${dateStamp} (horário de São Paulo — UTC-3)</p>
-${body}
-<footer>Automatização — Corridas SP - by Julio Mishima CTAI)</footer>
+${sections.join('\n')}
+<footer>Automatização — Corridas SP - by Julio Mishima CTAI</footer>
 </body>
 </html>`;
 }
 
-function generateMarkdown(events) {
-  const unique = dedupe(events);
+function generateMarkdown(categories) {
   const now = new Date();
-  const lines = [];
-  lines.push(`# Corridas em São Paulo SP (${formatDateStamp(now)})`);
-  lines.push('');
   const dateStamp = formatTimeStamp(now);
+  const lines = [];
+  lines.push(`# Corridas — SP Capital, Interior/Litoral & Internacional (${formatDateStamp(now)})`);
+  lines.push('');
   lines.push(`Gerado em: ${dateStamp} (horário de São Paulo — UTC-3)`);
   lines.push('');
 
-  if (!unique.length) {
-    lines.push('Nenhuma corrida em São Paulo SP.');
+  const categoryConfig = [
+    { key: 'spCapital', title: 'Corridas em São Paulo - Capital (SP)' },
+    { key: 'spInterior', title: 'Corridas em São Paulo - Interior/Litoral (SP)' },
+    { key: 'internacional', title: 'Corridas Internacionais' },
+  ];
+
+  for (const cat of categoryConfig) {
+    const events = categories[cat.key] || [];
+    const unique = dedupe(events);
+
+    lines.push(`## ${cat.title} (${formatDateStamp(now)})`);
     lines.push('');
-    lines.push('_Via GitHub Actions — Corridas SP - by Julio Mishima CTAI)._');
-    return lines.join('\n');
+
+    if (!unique.length) {
+      lines.push('Nenhuma corrida encontrada.');
+      lines.push('');
+      continue;
+    }
+
+    lines.push('| DATA | NOME | DISTANCIAS | LOCAL | ORGANIZACAO | OBSERVACAO | SITE |');
+    lines.push('| --- | --- | --- | --- | --- | --- | --- |');
+    for (const e of sortByDate(unique)) {
+      const [date, name, dist, local, org, obs, site] = eventRowValues(e);
+      lines.push(`| ${escapeMd(date)} | ${escapeMd(name)} | ${escapeMd(dist)} | ${escapeMd(local)} | ${escapeMd(org)} | ${escapeMd(obs)} | ${escapeMd(site)} |`);
+    }
+    lines.push('');
   }
 
-  lines.push('Corridas em São Paulo SP:');
-  lines.push('');
-  lines.push('| DATA | NOME | DISTANCIAS | LOCAL | ORGANIZACAO | OBSERVACAO | SITE |');
-  lines.push('| --- | --- | --- | --- | --- | --- | --- |');
-  for (const e of sortByDate(unique)) {
-    const [date, name, dist, local, org, obs, site] = eventRowValues(e);
-    lines.push(`| ${escapeMd(date)} | ${escapeMd(name)} | ${escapeMd(dist)} | ${escapeMd(local)} | ${escapeMd(org)} | ${escapeMd(obs)} | ${escapeMd(site)} |`);
-  }
-  lines.push('');
-
-  lines.push('_Via GitHub Actions — Corridas SP - by Julio Mishima CTAI)._');
+  lines.push('_Via GitHub Actions — Corridas SP - by Julio Mishima CTAI._');
   return lines.join('\n');
 }
 
-function escapeMd(s) {
-  return String(s || '').replace(/\|/g, '\\|').replace(/\n/g, ' ');
-}
-
-module.exports = { generateReport, generateMarkdown, buildBody, dedupe, formatDate, escapeHtml, groupByDateAndCity, formatPrice, formatDateStamp };
+module.exports = { generateReport, generateMarkdown, buildTable, buildTableWithFooter, dedupe, formatDate, escapeHtml, groupByDateAndCity, formatPrice, formatDateStamp };
