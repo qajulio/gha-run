@@ -1,466 +1,95 @@
-# Corridas em São Paulo SP (2026/Nov/20)
-
-Gerado em: 2026-11-20 15:52:13 (horário de São Paulo — UTC-3)
-
-Corridas em São Paulo SP hoje:
-
-## sábado, 21 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [OUTUBRO ROSA E NOVEMBRO AZUL](https://www.ticketsports.com.br/e/OUTUBRO+ROSA+E+NOVEMBRO+AZUL-88726) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
-| [TRICOLOR RUN NOTURNA 2026 -  2ª Etapa](https://www.ticketsports.com.br/e/TRICOLOR+RUN+NOTURNA+2026+-++2%C2%AA+Etapa-87210) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
-| [NIGHT RUN OUTUBRO ROSA E NOVEMBRO AZUL](https://www.ticketsports.com.br/e/NIGHT+RUN+OUTUBRO+ROSA+E+NOVEMBRO+AZUL-88391) | sábado, 21 de novembro de 2026 | ticketsports.com.br |
-
-## domingo, 22 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [1ª CORRIDA DA CONQUISTA](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+DA+CONQUISTA+-88624) | domingo, 22 de novembro de 2026 | ticketsports.com.br |
-
-## sexta-feira, 27 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Clínica de Técnica de Corrida com Fabiana Murer](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/clinica-de-tecnica-de-corrida-com-fabiana-murer) | sexta-feira, 27 de novembro de 2026 às 14:00 | iguanasports.com.br |
-
-## sábado, 28 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [10ª CORRIDA NOVEMBRO AZUL](https://www.ticketsports.com.br/e/10%C2%AA+CORRIDA+NOVEMBRO+AZUL-88625) | sábado, 28 de novembro de 2026 | ticketsports.com.br |
-| [1ª NIGHT RUN DOS NAMORADOS](https://www.ticketsports.com.br/e/1%C2%AA+NIGHT+RUN+DOS+NAMORADOS-88627) | sábado, 28 de novembro de 2026 | ticketsports.com.br |
-
-## domingo, 29 de novembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [IMPERIUM RUN CORRIDA DE RUA](https://www.ticketsports.com.br/e/IMPERIUM+RUN+CORRIDA+DE+RUA-88168) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
-| [ECO RUN DO VERDE](https://www.ticketsports.com.br/e/ECO+RUN+DO+VERDE-88914) | domingo, 29 de novembro de 2026 | ticketsports.com.br |
-| [Venus Women's Half Marathon 2026](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/venus-womens-half-marathon-2026) | domingo, 29 de novembro de 2026 às 06:00 | iguanasports.com.br |
-
-## quinta-feira, 03 de dezembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [LETS HOP · RUNNING EXPERIENCE PACAEMBU  COM JAN FRODENO](https://www.ticketsports.com.br/e/LETS+HOP+%C2%B7+RUNNING+EXPERIENCE+PACAEMBU++COM+JAN+FRODENO+-88971) | quinta-feira, 03 de dezembro de 2026 | ticketsports.com.br |
-
-## sábado, 05 de dezembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [FESTIVAL DE NATAÇÃO INFANTIL](https://www.ticketsports.com.br/e/FESTIVAL+DE+NATA%C3%87%C3%83O+INFANTIL+-88501) | sábado, 05 de dezembro de 2026 | ticketsports.com.br |
-| [1ª NIGHT RUN ROTA NOTURNA](https://www.ticketsports.com.br/e/1%C2%AA+NIGHT+RUN+ROTA+NOTURNA-88656) | sábado, 05 de dezembro de 2026 | ticketsports.com.br |
-
-## domingo, 06 de dezembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [15ª CORRIDA NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/15%C2%AA+CORRIDA+NOVO+RIO+PINHEIROS-88695) | domingo, 06 de dezembro de 2026 | ticketsports.com.br |
-| [INCLUSÃO A TODA PROVA  - SP 2026](https://www.ticketsports.com.br/e/INCLUS%C3%83O+A+TODA+PROVA++-+SP+2026-85925) | domingo, 06 de dezembro de 2026 | ticketsports.com.br |
-| [AGENDA RUN 4KM E 8KM - CERET](https://www.ticketsports.com.br/e/AGENDA+RUN+4KM+E+8KM+-+CERET-87878) | domingo, 06 de dezembro de 2026 | ticketsports.com.br |
-| [ESPETÁCULO DE DANÇA](https://www.ticketsports.com.br/e/ESPET%C3%81CULO+DE+DAN%C3%87A-87318) | domingo, 06 de dezembro de 2026 | ticketsports.com.br |
-
-## sábado, 12 de dezembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [1ª CORRIDA DOS NAMORADOS](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+DOS+NAMORADOS+-89039) | sábado, 12 de dezembro de 2026 | ticketsports.com.br |
-| [GONZAGUINHA KIDS 2026](https://www.ticketsports.com.br/e/GONZAGUINHA+KIDS+2026-88700) | sábado, 12 de dezembro de 2026 | ticketsports.com.br |
-| [30ª CORRIDA SÃO SILVESTRINHA - 2026](https://www.ticketsports.com.br/e/30%C2%AA+CORRIDA+S%C3%83O+SILVESTRINHA+-+2026-88644) | sábado, 12 de dezembro de 2026 | ticketsports.com.br |
-| [ALEGRIA RUNNERS 5KM ...OU QUASE ISSO!!](https://www.ticketsports.com.br/e/ALEGRIA+RUNNERS+5KM+...OU+QUASE+ISSO!!-87101) | sábado, 12 de dezembro de 2026 | ticketsports.com.br |
-| [19ª NIGHT RUN NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/19%C2%AA+NIGHT+RUN+NOVO+RIO+PINHEIROS-89040) | sábado, 12 de dezembro de 2026 | ticketsports.com.br |
-| [CLUBE TRIATHLON SP 2026](https://www.ticketsports.com.br/e/CLUBE+TRIATHLON+SP+2026-74775) | sábado, 12 de dezembro de 2026 | ticketsports.com.br |
-
-## domingo, 13 de dezembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [59ª SARGENTO GONZAGUINHA - CORRIDA DE SÃO PAULO](https://www.ticketsports.com.br/e/59%C2%AA+SARGENTO+GONZAGUINHA+-+CORRIDA+DE+S%C3%83O+PAULO-87155) | domingo, 13 de dezembro de 2026 | ticketsports.com.br |
-| [25ª CORRIDA PELA CIDADANIA](https://www.ticketsports.com.br/e/25%C2%AA+CORRIDA+PELA+CIDADANIA-87568) | domingo, 13 de dezembro de 2026 | ticketsports.com.br |
-| [CORRIDA CRISTO VIVE RUN 5K 2026](https://www.ticketsports.com.br/e/CORRIDA+CRISTO+VIVE+RUN+5K+2026-88101) | domingo, 13 de dezembro de 2026 | ticketsports.com.br |
-| [44ª MONTE LÍBANO RUN](https://www.ticketsports.com.br/e/44%C2%AA+MONTE+L%C3%8DBANO+RUN-88301) | domingo, 13 de dezembro de 2026 | ticketsports.com.br |
-| [CORRIDA E CAMINHADA CONTRA A FOME 2026 - ETAPA SÃO PAULO](https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+CONTRA+A+FOME+2026+-+ETAPA+S%C3%83O+PAULO-88445) | domingo, 13 de dezembro de 2026 | ticketsports.com.br |
-
-## sábado, 19 de dezembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [CORRIDA DO BOB ESPONJA \| ESPECIAL DE NATAL SP](https://www.ticketsports.com.br/e/CORRIDA+DO+BOB+ESPONJA+%7C+ESPECIAL+DE+NATAL+SP-88613) | sábado, 19 de dezembro de 2026 | ticketsports.com.br |
-| [NIGHT RUN TIETÊ](https://www.ticketsports.com.br/e/NIGHT+RUN+TIET%C3%8A+-88857) | sábado, 19 de dezembro de 2026 | ticketsports.com.br |
-| [Barbie Run São Paulo](https://yescom.com.br/barbierun/2026/sp/index.html) | sábado, 19 de dezembro de 2026 | yescom.com.br |
-| [1ª Hot Wheels Run](https://www.yescom.com.br/#) | sábado, 19 de dezembro de 2026 | yescom.com.br |
-
-## domingo, 20 de dezembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [CORRIDA DO NARUTO - SÃO PAULO](https://www.ticketsports.com.br/e/CORRIDA+DO+NARUTO+-+S%C3%83O+PAULO-88258) | domingo, 20 de dezembro de 2026 | ticketsports.com.br |
-| [5º JESUS LIVE RUN - CORRIDA DE RUA E CAMINHADA](https://www.ticketsports.com.br/e/5%C2%BA+JESUS+LIVE+RUN+-+CORRIDA+DE+RUA+E+CAMINHADA-88474) | domingo, 20 de dezembro de 2026 | ticketsports.com.br |
-| [CORRIDA DE NATAL 2026](https://www.ticketsports.com.br/e/CORRIDA+DE+NATAL+2026-88368) | domingo, 20 de dezembro de 2026 | ticketsports.com.br |
-| [GOSPEL RUN 5KM](https://www.ticketsports.com.br/e/GOSPEL+RUN+5KM-88030) | domingo, 20 de dezembro de 2026 | ticketsports.com.br |
-
-## quinta-feira, 24 de dezembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [CORRIDA DE NATAL 5KM](https://www.ticketsports.com.br/e/CORRIDA+DE+NATAL+5KM-88827) | quinta-feira, 24 de dezembro de 2026 | ticketsports.com.br |
-
-## domingo, 27 de dezembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [2ª CORRIDA RÉVEILLON RUN 2026](https://www.ticketsports.com.br/e/2%C2%AA+CORRIDA+R%C3%89VEILLON+RUN+2026-88096) | domingo, 27 de dezembro de 2026 | ticketsports.com.br |
-| [CORRIDA CELEBRA RÉVEILLON](https://www.ticketsports.com.br/e/CORRIDA+CELEBRA+R%C3%89VEILLON-88826) | domingo, 27 de dezembro de 2026 | ticketsports.com.br |
-
-## quinta-feira, 31 de dezembro de 2026
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [101ª CORRIDA INTERNACIONAL DE SÃO SILVESTRE](https://www.ticketsports.com.br/e/101%C2%AA+CORRIDA+INTERNACIONAL+DE+S%C3%83O+SILVESTRE+-87655) | quinta-feira, 31 de dezembro de 2026 | ticketsports.com.br |
-| [CORRIDA DA VIRADA 2026](https://www.ticketsports.com.br/e/CORRIDA+DA+VIRADA+2026-86184) | quinta-feira, 31 de dezembro de 2026 | ticketsports.com.br |
-| [FILIAÇÃO 2026 (BARCO) - ASSOCIAÇÃO BRASILEIRA DE WAKEBOARD](https://www.ticketsports.com.br/e/FILIA%C3%87%C3%83O+2026+(BARCO)+-+ASSOCIA%C3%87%C3%83O+BRASILEIRA+DE+WAKEBOARD-85806) | quinta-feira, 31 de dezembro de 2026 | ticketsports.com.br |
-
-## sábado, 02 de janeiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [20ª NIGHT RUN  NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/20%C2%AA+NIGHT+RUN++NOVO+RIO+PINHEIROS-88958) | sábado, 02 de janeiro de 2027 | ticketsports.com.br |
-
-## domingo, 03 de janeiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [1ª CORRIDA DO VERDE](https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+DO+VERDE+-88959) | domingo, 03 de janeiro de 2027 | ticketsports.com.br |
-
-## sábado, 09 de janeiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [2ª NIGHT RUN ROTA NOTURNA](https://www.ticketsports.com.br/e/2%C2%AA+NIGHT+RUN+ROTA+NOTURNA-88962) | sábado, 09 de janeiro de 2027 | ticketsports.com.br |
-
-## domingo, 10 de janeiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [SAMPA RUN 5KM](https://www.ticketsports.com.br/e/SAMPA+RUN+5KM-88815) | domingo, 10 de janeiro de 2027 | ticketsports.com.br |
-| [CORRIDA NOVO RIO PINHEIROS](https://www.ticketsports.com.br/e/CORRIDA+NOVO+RIO+PINHEIROS-88965) | domingo, 10 de janeiro de 2027 | ticketsports.com.br |
-
-## domingo, 24 de janeiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [STORM RUN SUMMER EDITION 2027](https://www.ticketsports.com.br/e/STORM+RUN+SUMMER+EDITION+2027-88713) | domingo, 24 de janeiro de 2027 | ticketsports.com.br |
-| [20ª Meia Maratona Int'l de São Paulo](https://www.yescom.com.br/meiasp/2027/index.asp) | domingo, 24 de janeiro de 2027 | yescom.com.br |
-
-## segunda-feira, 25 de janeiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [TROFÉU CIDADE DE SÃO PAULO DROGASIL](https://www.ticketsports.com.br/e/TROF%C3%89U+CIDADE+DE+S%C3%83O+PAULO+DROGASIL-87541) | segunda-feira, 25 de janeiro de 2027 | ticketsports.com.br |
-
-## sábado, 30 de janeiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [CORRIDA E CAMINHADA PARKINSON EM MOVIMENTO](https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+PARKINSON+EM+MOVIMENTO-88974) | sábado, 30 de janeiro de 2027 | ticketsports.com.br |
-
-## domingo, 14 de fevereiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [GLITTER RUN 5KM](https://www.ticketsports.com.br/e/GLITTER+RUN+5KM-89082) | domingo, 14 de fevereiro de 2027 | ticketsports.com.br |
-
-## domingo, 21 de fevereiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [META REAL SOMOS UM](https://www.ticketsports.com.br/e/META+REAL+SOMOS+UM-87981) | domingo, 21 de fevereiro de 2027 | ticketsports.com.br |
-
-## sábado, 27 de fevereiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [SPINNATION 3ª EDIÇÃO](https://www.ticketsports.com.br/e/SPINNATION+3%C2%AA+EDI%C3%87%C3%83O-88615) | sábado, 27 de fevereiro de 2027 | ticketsports.com.br |
-
-## domingo, 28 de fevereiro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [TREINÃO CORAÇÃO EM MOVIMENTO](https://www.ticketsports.com.br/e/TREIN%C3%83O+CORA%C3%87%C3%83O+EM+MOVIMENTO+-88891) | domingo, 28 de fevereiro de 2027 | ticketsports.com.br |
-
-## domingo, 07 de março de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [33ª Corrida Mulher-Maravilha São Paulo](https://yescom.com.br/corridamulhermaravilha/2027/sp/index.html) | domingo, 07 de março de 2027 | yescom.com.br |
-
-## sábado, 13 de março de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [CORRIDA GRANADO PINK SÃO PAULO 2027](https://www.ticketsports.com.br/e/CORRIDA+GRANADO+PINK+S%C3%83O+PAULO+2027-88976) | sábado, 13 de março de 2027 | ticketsports.com.br |
-
-## domingo, 14 de março de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Combo Circuito Athenas](https://iguanasports.com.br/products/combo-circuito-athenas-2027) | domingo, 14 de março de 2027 às 00:00 | iguanasports.com.br |
-| [WOMEN'S DAY - 2027](https://www.ticketsports.com.br/e/WOMEN%27S+DAY+-+2027-88532) | domingo, 14 de março de 2027 | ticketsports.com.br |
-| [Athenas Run Faster 2027](https://iguanasports.com.br/products/athenas-run-faster-2027) | domingo, 14 de março de 2027 às 05:30 | iguanasports.com.br |
-
-## domingo, 28 de março de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [NEW BALANCE 15K SÃO PAULO - 2027](https://www.ticketsports.com.br/e/NEW+BALANCE+15K+S%C3%83O+PAULO+-+2027-88774) | domingo, 28 de março de 2027 | ticketsports.com.br |
-
-## terça-feira, 30 de março de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [ETAPA COIOTE - Circuito ZOO RUN](https://www.ticketsports.com.br/e/ETAPA+COIOTE+-+Circuito+ZOO+RUN-85365) | terça-feira, 30 de março de 2027 | ticketsports.com.br |
-
-## sábado, 03 de abril de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [11ª Maratoninha de São Paulo](https://www.yescom.com.br/maratoninha/2027/index.html) | sábado, 03 de abril de 2027 | yescom.com.br |
-| [31ª Maratona Int'l de São Paulo - 2ª Corrida das Nações](https://www.yescom.com.br/maratonasp/2027/index.asp) | sábado, 03 de abril de 2027 | yescom.com.br |
-
-## domingo, 04 de abril de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [SERTANEJO RUN SP 2026](https://www.ticketsports.com.br/e/SERTANEJO+RUN+SP+2026-87054) | domingo, 04 de abril de 2027 | ticketsports.com.br |
-| [31ª Maratona Int'l de São Paulo](https://www.yescom.com.br/maratonasp/2027/index.asp) | domingo, 04 de abril de 2027 | yescom.com.br |
-
-## domingo, 11 de abril de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [RUN DAY CENTRO HISTÓRICO](https://www.ticketsports.com.br/e/RUN+DAY+CENTRO+HIST%C3%93RICO+-88742) | domingo, 11 de abril de 2027 | ticketsports.com.br |
-
-## domingo, 18 de abril de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Seven Run 2027](https://iguanasports.com.br/products/seven-run-2027) | domingo, 18 de abril de 2027 às 00:00 | iguanasports.com.br |
-| [CORRIDA DO CHAVES 2027 - ETAPA SP](https://www.ticketsports.com.br/e/CORRIDA+DO+CHAVES+2027+-+ETAPA+SP-88801) | domingo, 18 de abril de 2027 | ticketsports.com.br |
-
-## domingo, 25 de abril de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [URBAN TRAIL RUN - PEDRA GRANDE](https://www.ticketsports.com.br/e/URBAN+TRAIL+RUN+-+PEDRA+GRANDE-88810) | domingo, 25 de abril de 2027 | ticketsports.com.br |
-
-## domingo, 16 de maio de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| 9ª Corrida do Café | domingo, 16 de maio de 2027 | yescom.com.br |
-
-## domingo, 06 de junho de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| 2ª Corrida Tom e Jerry | domingo, 06 de junho de 2027 | yescom.com.br |
-
-## domingo, 13 de junho de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [3ª São Paulo Classic Run](https://www.yescom.com.br/classicrun/2027/index.html) | domingo, 13 de junho de 2027 | yescom.com.br |
-
-## domingo, 20 de junho de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Athenas Run Stronger 2027](https://iguanasports.com.br/products/athenas-run-stronger-2027) | domingo, 20 de junho de 2027 às 00:00 | iguanasports.com.br |
-
-## domingo, 27 de junho de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| 8ª Corrida Superman e Supergirl | domingo, 27 de junho de 2027 | yescom.com.br |
-
-## domingo, 04 de julho de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [HOKA SPEED RUN 2027 - SÃO PAULO](https://www.ticketsports.com.br/e/HOKA+SPEED+RUN+2027+-+S%C3%83O+PAULO-87617) | domingo, 04 de julho de 2027 | ticketsports.com.br |
-
-## domingo, 25 de julho de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Nike SP City Marathon 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/nike-sp-city-marathon-2027) | domingo, 25 de julho de 2027 às 05:20 | iguanasports.com.br |
-
-## domingo, 01 de agosto de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| 4ª Hello Kitty Fun Run São Paulo | domingo, 01 de agosto de 2027 | yescom.com.br |
-
-## domingo, 29 de agosto de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Run The Bridge 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/run-the-bridge) | domingo, 29 de agosto de 2027 às 00:00 | iguanasports.com.br |
-
-## sábado, 18 de setembro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| 8ª Batman Run Series | sábado, 18 de setembro de 2027 | yescom.com.br |
-
-## domingo, 19 de setembro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [2027 Nubank Ultravioleta IRONMAN 70.3 São Paulo](https://www.ticketsports.com.br/e/2027+Nubank+Ultravioleta+IRONMAN+70.3+S%C3%A3o+Paulo-88393) | domingo, 19 de setembro de 2027 | ticketsports.com.br |
-| 16ª Corrida Cartoon São Paulo | domingo, 19 de setembro de 2027 | yescom.com.br |
-
-## domingo, 26 de setembro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [SP 10K 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/sp-10k) | domingo, 26 de setembro de 2027 às 00:00 | iguanasports.com.br |
-
-## domingo, 03 de outubro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| 66ª Corrida e Caminhada Contra o Câncer de Mama | domingo, 03 de outubro de 2027 | yescom.com.br |
-
-## domingo, 17 de outubro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| 2ª UOL Run Super 10K | domingo, 17 de outubro de 2027 | yescom.com.br |
-
-## domingo, 24 de outubro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Athenas Run Longer 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/athenas-run-longer-2027) | domingo, 24 de outubro de 2027 às 00:00 | iguanasports.com.br |
-
-## domingo, 07 de novembro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| 35ª Corrida Mulher-Maravilha São Paulo | domingo, 07 de novembro de 2027 | yescom.com.br |
-
-## domingo, 28 de novembro de 2027
-
-### São Paulo
-
-| Evento | Data | Site |
-| --- | --- | --- |
-| [Venus Women's Half Marathon 2027](https://iguanasports.com.br/blogs/calendario-corridas-de-rua/venus-womens-half-marathon) | domingo, 28 de novembro de 2027 às 00:00 | iguanasports.com.br |
+# Corridas em São Paulo SP (2026/Nov/21)
+
+Gerado em: 2026-11-21 18:50:59 (horário de São Paulo — UTC-3)
+
+Corridas em São Paulo SP:
+
+| DATA | NOME | DISTANCIAS | LOCAL | ORGANIZACAO | OBSERVACAO | SITE |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026/11/22 | 1ª CORRIDA DA CONQUISTA | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2026/11/27 | Clínica de Técnica de Corrida com Fabiana Murer | - | São Paulo | Iguana Sports | - | https://iguanasports.com.br/ |
+| 2026/11/28 | 10ª CORRIDA NOVEMBRO AZUL | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2026/11/28 | 1ª NIGHT RUN DOS NAMORADOS | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2026/11/29 | IMPERIUM RUN CORRIDA DE RUA | - | São Paulo | LIGA DE INCENTIVO AO ESPORTE | Aberto | https://www.ticketsports.com.br/ |
+| 2026/11/29 | ECO RUN DO VERDE | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2026/11/29 | Venus Women's Half Marathon 2026 | 10K, 15K, 21.1K, 5K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/ |
+| 2026/12/03 | LETS HOP · RUNNING EXPERIENCE PACAEMBU  COM JAN FRODENO | - | São Paulo | HOUSE OF PACE | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/05 | FESTIVAL DE NATAÇÃO INFANTIL | - | São Paulo | Mundo Azul | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/05 | 1ª NIGHT RUN ROTA NOTURNA | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/06 | 15ª CORRIDA NOVO RIO PINHEIROS | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/06 | INCLUSÃO A TODA PROVA  - SP 2026 | - | São Paulo | INSTITUTO OLGA KOS | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/06 | AGENDA RUN 4KM E 8KM - CERET | - | São Paulo | FPB ESPORTES | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/06 | ESPETÁCULO DE DANÇA | - | São Paulo | Competition & Promenade | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/12 | 1ª CORRIDA DOS NAMORADOS | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/12 | GONZAGUINHA KIDS 2026 | - | São Paulo | Avatar Sports | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/12 | 30ª CORRIDA SÃO SILVESTRINHA - 2026 | - | São Paulo | Fundação Cásper Líbero | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/12 | ALEGRIA RUNNERS 5KM ...OU QUASE ISSO!! | - | São Paulo | Prof° Neuri Dantas | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/12 | 19ª NIGHT RUN NOVO RIO PINHEIROS | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/12 | CLUBE TRIATHLON SP 2026 | - | São Paulo | CBTRI | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/13 | 59ª SARGENTO GONZAGUINHA - CORRIDA DE SÃO PAULO | - | São Paulo | Avatar Sports | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/13 | 25ª CORRIDA PELA CIDADANIA | - | São Paulo | Projeto Arrastão | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/13 | CORRIDA CRISTO VIVE RUN 5K 2026 | - | São Paulo | Tonbonfa | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/13 | 44ª MONTE LÍBANO RUN | - | São Paulo | Clube Atlético Monte Líbano | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/13 | CORRIDA E CAMINHADA CONTRA A FOME 2026 - ETAPA SÃO PAULO | - | São Paulo | AÇÃO DA CIDADANIA | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/19 | CORRIDA DO BOB ESPONJA \| ESPECIAL DE NATAL SP | - | São Paulo | ORG EVENTOS | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/19 | NIGHT RUN TIETÊ | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/19 | Barbie Run São Paulo | - | São Paulo | Yescom | aberto | https://yescom.com.br/ |
+| 2026/12/19 | 1ª Hot Wheels Run | - | São Paulo | Yescom | breve | https://www.yescom.com.br/ |
+| 2026/12/20 | CORRIDA DO NARUTO - SÃO PAULO | - | São Paulo | ORG EVENTOS | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/20 | 5º JESUS LIVE RUN - CORRIDA DE RUA E CAMINHADA | - | São Paulo | ARTE FINAL BRASIL | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/20 | CORRIDA DE NATAL 2026 | - | São Paulo | FPB ESPORTES | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/20 | GOSPEL RUN 5KM | - | São Paulo | Prof° Neuri Dantas | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/24 | CORRIDA DE NATAL 5KM | - | São Paulo | Prof° Neuri Dantas | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/27 | 2ª CORRIDA RÉVEILLON RUN 2026 | - | São Paulo | Tonbonfa | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/27 | CORRIDA CELEBRA RÉVEILLON | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/31 | 101ª CORRIDA INTERNACIONAL DE SÃO SILVESTRE | - | São Paulo | Fundação Cásper Líbero | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/31 | CORRIDA DA VIRADA 2026 | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2026/12/31 | FILIAÇÃO 2026 (BARCO) - ASSOCIAÇÃO BRASILEIRA DE WAKEBOARD | - | São Paulo | Associação Brasileira de Wakeboard (ABW) | Aberto | https://www.ticketsports.com.br/ |
+| 2027/01/02 | 20ª NIGHT RUN  NOVO RIO PINHEIROS | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2027/01/03 | 1ª CORRIDA DO VERDE | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2027/01/09 | 2ª NIGHT RUN ROTA NOTURNA | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2027/01/10 | SAMPA RUN 5KM | - | São Paulo | ASSOCIAÇÃO ATLETAS DO BEM | Aberto | https://www.ticketsports.com.br/ |
+| 2027/01/10 | CORRIDA NOVO RIO PINHEIROS | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/ |
+| 2027/01/24 | STORM RUN SUMMER EDITION 2027 | - | São Paulo | Sagaz Esportes | Aberto | https://www.ticketsports.com.br/ |
+| 2027/01/24 | 20ª Meia Maratona Int'l de São Paulo | - | São Paulo | Yescom | aberto | https://www.yescom.com.br/ |
+| 2027/01/25 | TROFÉU CIDADE DE SÃO PAULO DROGASIL | - | São Paulo | JJS Eventos | Aberto | https://www.ticketsports.com.br/ |
+| 2027/01/30 | CORRIDA E CAMINHADA PARKINSON EM MOVIMENTO | - | São Paulo | CORRER COM PROPÓSITOS | Aberto | https://www.ticketsports.com.br/ |
+| 2027/02/14 | GLITTER RUN 5KM | - | São Paulo | ASSOCIAÇÃO ATLETAS DO BEM | Aberto | https://www.ticketsports.com.br/ |
+| 2027/02/21 | META REAL SOMOS UM | - | São Paulo | META REAL SPORTS | Aberto | https://www.ticketsports.com.br/ |
+| 2027/02/27 | SPINNATION 3ª EDIÇÃO | - | São Paulo | SpinNation | Aberto | https://www.ticketsports.com.br/ |
+| 2027/02/28 | TREINÃO CORAÇÃO EM MOVIMENTO | - | São Paulo | CORRENDO COM CORACAO | Aberto | https://www.ticketsports.com.br/ |
+| 2027/03/07 | 33ª Corrida Mulher-Maravilha São Paulo | - | São Paulo | Yescom | aberto | https://yescom.com.br/ |
+| 2027/03/13 | CORRIDA GRANADO PINK SÃO PAULO 2027 | - | São Paulo | 5 Oceans | Aberto | https://www.ticketsports.com.br/ |
+| 2027/03/14 | Combo Circuito Athenas | - | São Paulo | Iguana Sports | - | https://iguanasports.com.br/ |
+| 2027/03/14 | WOMEN'S DAY - 2027 | - | São Paulo | WOMENS DAY | Aberto | https://www.ticketsports.com.br/ |
+| 2027/03/14 | Athenas Run Faster 2027 | 10K, 15K, 21.1K, 5K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/ |
+| 2027/03/28 | NEW BALANCE 15K SÃO PAULO - 2027 | - | São Paulo | Run Sports | Aberto | https://www.ticketsports.com.br/ |
+| 2027/03/30 | ETAPA COIOTE - Circuito ZOO RUN | - | São Paulo | Ironstorm Run | Aberto | https://www.ticketsports.com.br/ |
+| 2027/04/03 | 11ª Maratoninha de São Paulo | - | São Paulo | Yescom | breve | https://www.yescom.com.br/ |
+| 2027/04/03 | 31ª Maratona Int'l de São Paulo - 2ª Corrida das Nações | - | São Paulo | Yescom | aberto | https://www.yescom.com.br/ |
+| 2027/04/04 | SERTANEJO RUN SP | - | São Paulo | MARUNATA SPORTS | Aberto | https://www.ticketsports.com.br/ |
+| 2027/04/04 | 31ª Maratona Int'l de São Paulo | - | São Paulo | Yescom | aberto | https://www.yescom.com.br/ |
+| 2027/04/11 | RUN DAY CENTRO HISTÓRICO | - | São Paulo | JF SPORTS | Aberto | https://www.ticketsports.com.br/ |
+| 2027/04/18 | Seven Run 2027 | 14K, 21.1K, 28K, 7K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/ |
+| 2027/04/18 | CORRIDA DO CHAVES 2027 - ETAPA SP | - | São Paulo | JF SPORTS | Aberto | https://www.ticketsports.com.br/ |
+| 2027/04/25 | URBAN TRAIL RUN - PEDRA GRANDE | - | São Paulo | Sagaz Esportes | Aberto | https://www.ticketsports.com.br/ |
+| 2027/05/16 | 9ª Corrida do Café | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
+| 2027/06/06 | 2ª Corrida Tom e Jerry | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
+| 2027/06/13 | 3ª São Paulo Classic Run | - | São Paulo | Yescom | aberto | https://www.yescom.com.br/ |
+| 2027/06/20 | Athenas Run Stronger 2027 | 12K, 18K, 25K, 6K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/ |
+| 2027/06/27 | 8ª Corrida Superman e Supergirl | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
+| 2027/07/04 | HOKA SPEED RUN 2027 - SÃO PAULO | - | São Paulo | Beta Sports | Aberto | https://www.ticketsports.com.br/ |
+| 2027/07/25 | Nike SP City Marathon 2027 | 21.1K, 42.2K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/ |
+| 2027/08/01 | 4ª Hello Kitty Fun Run São Paulo | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
+| 2027/08/29 | Run The Bridge 2027 | 10K, 15K, 30K, 5K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/ |
+| 2027/09/18 | 8ª Batman Run Series | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
+| 2027/09/19 | 2027 Nubank Ultravioleta IRONMAN 70.3 São Paulo | - | São Paulo | UNLIMITED SPORTS | Aberto | https://www.ticketsports.com.br/ |
+| 2027/09/19 | 16ª Corrida Cartoon São Paulo | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
+| 2027/09/26 | SP 10K 2027 | 10K, 5K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/ |
+| 2027/10/03 | 66ª Corrida e Caminhada Contra o Câncer de Mama | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
+| 2027/10/17 | 2ª UOL Run Super 10K | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
+| 2027/10/24 | Athenas Run Longer 2027 | 14K, 21.1K, 28K, 7K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/ |
+| 2027/11/07 | 35ª Corrida Mulher-Maravilha São Paulo | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
+| 2027/11/28 | Venus Women's Half Marathon 2027 | 10K, 15K, 21.1K, 5K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/ |
 
 _Via GitHub Actions — Corridas SP - by Julio Mishima CTAI)._
