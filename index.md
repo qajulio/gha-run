@@ -1,8 +1,8 @@
-# Corridas — SP Capital, Interior/Litoral & Internacional (2026/Nov/23)
+# Corridas — SP Capital, Interior/Litoral & Internacional (2026/Nov/25)
 
-Gerado em: 2026-11-23 19:15:27 (horário de São Paulo — UTC-3)
+Gerado em: 2026-11-25 17:14:07 (horário de São Paulo — UTC-3)
 
-## Corridas em São Paulo - Capital (SP) (2026/Nov/23)
+## Corridas em São Paulo - Capital (SP) (2026/Nov/25)
 
 | DATA | NOME | DISTANCIAS | LOCAL | ORGANIZACAO | OBSERVACAO | SITE |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -45,15 +45,18 @@ Gerado em: 2026-11-23 19:15:27 (horário de São Paulo — UTC-3)
 | 2026/12/31 | FILIAÇÃO 2026 (BARCO) - ASSOCIAÇÃO BRASILEIRA DE WAKEBOARD | - | São Paulo | Associação Brasileira de Wakeboard (ABW) | Aberto | https://www.ticketsports.com.br/e/FILIA%C3%87%C3%83O+2026+(BARCO)+-+ASSOCIA%C3%87%C3%83O+BRASILEIRA+DE+WAKEBOARD-85806 |
 | 2027/01/02 | 20ª NIGHT RUN  NOVO RIO PINHEIROS | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/e/20%C2%AA+NIGHT+RUN++NOVO+RIO+PINHEIROS-88958 |
 | 2027/01/03 | 1ª CORRIDA DO VERDE | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+DO+VERDE+-88959 |
+| 2027/01/09 | 1ª CORRIDA CELEBRA 2027 | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+CELEBRA+2027-89096 |
 | 2027/01/09 | 2ª NIGHT RUN ROTA NOTURNA | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/e/2%C2%AA+NIGHT+RUN+ROTA+NOTURNA-88962 |
 | 2027/01/10 | SAMPA RUN 5KM | - | São Paulo | ASSOCIAÇÃO ATLETAS DO BEM | Aberto | https://www.ticketsports.com.br/e/SAMPA+RUN+5KM-88815 |
 | 2027/01/10 | CORRIDA NOVO RIO PINHEIROS | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/e/CORRIDA+NOVO+RIO+PINHEIROS-88965 |
+| 2027/01/16 | 2ª NIGHT RUN TIETÊ | - | São Paulo | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/e/2%C2%AA+NIGHT+RUN+TIET%C3%8A+-89098 |
 | 2027/01/17 | STORM RUN SUMMER EDITION 2027 | - | São Paulo | Sagaz Esportes | Aberto | https://www.ticketsports.com.br/e/STORM+RUN+SUMMER+EDITION+2027-88713 |
 | 2027/01/24 | 20ª Meia Maratona Int'l de São Paulo | - | São Paulo | Yescom | aberto | https://www.yescom.com.br/meiasp/2027/index.asp |
 | 2027/01/25 | TROFÉU CIDADE DE SÃO PAULO DROGASIL | - | São Paulo | JJS Eventos | Aberto | https://www.ticketsports.com.br/e/TROF%C3%89U+CIDADE+DE+S%C3%83O+PAULO+DROGASIL-87541 |
 | 2027/01/30 | CORRIDA E CAMINHADA PARKINSON EM MOVIMENTO | - | São Paulo | CORRER COM PROPÓSITOS | Aberto | https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+PARKINSON+EM+MOVIMENTO-88974 |
 | 2027/01/31 | CORRIDA DA DIVERSIDADE | - | São Paulo | MEC ASSESSORIA | Aberto | https://www.ticketsports.com.br/e/CORRIDA+DA+DIVERSIDADE-88858 |
-| 2027/02/14 | GLITTER RUN 5KM | - | São Paulo | ASSOCIAÇÃO ATLETAS DO BEM | Aberto | https://www.ticketsports.com.br/e/GLITTER+RUN+5KM-89082 |
+| 2027/02/14 | GLITTER RUN - pq villa lobos 5KM | - | São Paulo | ASSOCIAÇÃO ATLETAS DO BEM | Aberto | https://www.ticketsports.com.br/e/GLITTER+RUN+-+pq+villa+lobos+5KM-89082 |
+| 2027/02/21 | A CORRIDA DOS MUTANTES - META REAL EVOLUTION | - | São Paulo | META REAL SPORTS | Aberto | https://www.ticketsports.com.br/e/A+CORRIDA+DOS+MUTANTES+-+META+REAL+EVOLUTION-87981 |
 | 2027/02/27 | SPINNATION 3ª EDIÇÃO | - | São Paulo | SpinNation | Aberto | https://www.ticketsports.com.br/e/SPINNATION+3%C2%AA+EDI%C3%87%C3%83O-88615 |
 | 2027/02/28 | TREINÃO CORAÇÃO EM MOVIMENTO | - | São Paulo | CORRENDO COM CORACAO | Aberto | https://www.ticketsports.com.br/e/TREIN%C3%83O+CORA%C3%87%C3%83O+EM+MOVIMENTO+-88891 |
 | 2027/03/07 | 33ª Corrida Mulher-Maravilha São Paulo | - | São Paulo | Yescom | aberto | https://yescom.com.br/corridamulhermaravilha/2027/sp/index.html |
@@ -71,12 +74,13 @@ Gerado em: 2026-11-23 19:15:27 (horário de São Paulo — UTC-3)
 | 2027/04/18 | Seven Run 2027 | 14K, 21.1K, 28K, 7K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/products/seven-run-2027 |
 | 2027/04/18 | CORRIDA DO CHAVES 2027 - ETAPA SP | - | São Paulo | JF SPORTS | Aberto | https://www.ticketsports.com.br/e/CORRIDA+DO+CHAVES+2027+-+ETAPA+SP-88801 |
 | 2027/04/25 | URBAN TRAIL RUN - PEDRA GRANDE | - | São Paulo | Sagaz Esportes | Aberto | https://www.ticketsports.com.br/e/URBAN+TRAIL+RUN+-+PEDRA+GRANDE-88810 |
+| 2027/05/09 | Corrida 106 Anos da Folha de São Paulo | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
 | 2027/05/16 | ASICS GOLDEN RUN 2027 - ETAPA SP | - | São Paulo | ASICS BRASIL | Aberto | https://www.ticketsports.com.br/e/ASICS+GOLDEN+RUN+2027+-+ETAPA+SP-89064 |
 | 2027/05/16 | 9ª Corrida do Café | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
 | 2027/06/06 | 2ª Corrida Tom e Jerry | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
 | 2027/06/13 | 3ª São Paulo Classic Run | - | São Paulo | Yescom | aberto | https://www.yescom.com.br/classicrun/2027/index.html |
 | 2027/06/20 | Athenas Run Stronger 2027 | 12K, 18K, 25K, 6K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/products/athenas-run-stronger-2027 |
-| 2027/06/27 | 8ª Corrida Superman e Supergirl | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
+| 2027/06/20 | 8ª Corrida Superman e Supergirl | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
 | 2027/07/04 | HOKA SPEED RUN 2027 - SÃO PAULO | - | São Paulo | Beta Sports | Aberto | https://www.ticketsports.com.br/e/HOKA+SPEED+RUN+2027+-+S%C3%83O+PAULO-87617 |
 | 2027/07/25 | Nike SP City Marathon 2027 | 21.1K, 42.2K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/blogs/calendario-corridas-de-rua/nike-sp-city-marathon-2027 |
 | 2027/08/01 | 4ª Hello Kitty Fun Run São Paulo | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
@@ -91,26 +95,21 @@ Gerado em: 2026-11-23 19:15:27 (horário de São Paulo — UTC-3)
 | 2027/11/07 | 35ª Corrida Mulher-Maravilha São Paulo | - | São Paulo | Yescom | breve | https://yescom.com.br/ |
 | 2027/11/28 | Venus Women's Half Marathon 2027 | 10K, 15K, 21.1K, 5K | São Paulo | Iguana Sports | - | https://iguanasports.com.br/blogs/calendario-corridas-de-rua/venus-womens-half-marathon |
 
-## Corridas em São Paulo - Interior/Litoral (SP) (2026/Nov/23)
+## Corridas em São Paulo - Interior/Litoral (SP) (2026/Nov/25)
 
 | DATA | NOME | DISTANCIAS | LOCAL | ORGANIZACAO | OBSERVACAO | SITE |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026/11/28 | LA VUELTA DESAFÍO BRASIL BY BTG PACTUAL 2026 - PROVA CONTRA RELÓGIO POR EQUIPES (C.R.E.) | - | Caraguatatuba | LTP BRASIL EVENTOS LTDA | Aberto | https://www.ticketsports.com.br/e/LA+VUELTA+DESAF%C3%8DO+BRASIL+BY+BTG+PACTUAL+2026+-+PROVA+CONTRA+REL%C3%93GIO+POR+EQUIPES+(C.R.E.)-87639 |
 | 2026/11/28 | CORRIDA UPAR | - | Indaiatuba | Isa Costa | Aberto | https://www.ticketsports.com.br/e/CORRIDA+UPAR+-87542 |
 | 2026/11/28 | AMERICANA SPEED NIGHT RUN 2ª EDIÇÃO | - | Americana | Bahia Esportes | Aberto | https://www.ticketsports.com.br/e/AMERICANA+SPEED+NIGHT+RUN+2%C2%AA+EDI%C3%87%C3%83O-88270 |
 | 2026/11/28 | FLASH NIGHT  RUN 3KM | - | Taboão da Serra | ATLETAS DO BEM | Aberto | https://www.ticketsports.com.br/e/FLASH+NIGHT++RUN+3KM-88865 |
 | 2026/11/29 | 7º DESAFIO CAPIVARA | - | Campinas | CITIUS ASSESSORIA ESPORTIVA | Aberto | https://www.ticketsports.com.br/e/7%C2%BA+DESAFIO+CAPIVARA-88689 |
-| 2026/11/29 | CIRCUITO OSCAR 2026-2027 - 2ª ETAPA - SÃO JOSÉ DOS CAMPOS | - | São José dos Campos | Avatar Sports | Aberto | https://www.ticketsports.com.br/e/CIRCUITO+OSCAR+2026-2027+-+2%C2%AA+ETAPA+-+S%C3%83O+JOS%C3%89+DOS+CAMPOS-86352 |
-| 2026/11/29 | 5º VALINHOS TRAIL RUNNING | - | Valinhos | Grécia Produções e Eventos | Aberto | https://www.ticketsports.com.br/e/5%C2%BA+VALINHOS+TRAIL+RUNNING-86687 |
 | 2026/11/29 | ALPHA RUNNER 2026 | - | Barueri | ALPHAVILLE SUPLEMENTOS | Aberto | https://www.ticketsports.com.br/e/ALPHA+RUNNER+2026-88079 |
 | 2026/11/29 | 1ª Corrida e Caminhada da Ladeira Solidária - Solicari | - | Taboão da Serra | PROJETO SOLICARI | Aberto | https://www.ticketsports.com.br/e/1%C2%AA+Corrida+e+Caminhada+da+Ladeira+Solid%C3%A1ria+-+Solicari-88215 |
 | 2026/11/29 | EAÍ RUN 2026 | - | Jundiaí | Ideal 5k Sports | Aberto | https://www.ticketsports.com.br/e/EA%C3%8D+RUN+2026-86816 |
 | 2026/11/29 | 1ª CORRIDA UNIMED | - | Americana | Chelso Sports | Aberto | https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+UNIMED-87418 |
-| 2026/11/29 | LA VUELTA DESAFÍO BRASIL PROVA ESTRADA - RESISTÊNCIA INDIVIDUAL | - | Caraguatatuba | LTP BRASIL EVENTOS LTDA | Aberto | https://www.ticketsports.com.br/e/LA+VUELTA+DESAF%C3%8DO+BRASIL+PROVA+ESTRADA+-+RESIST%C3%8ANCIA+INDIVIDUAL-87641 |
 | 2026/11/29 | CORRIDA E CAMINHADA LAÇOS DA VIDA | - | São Bernardo do Campo | Instituto da Mulher Brasileira | Aberto | https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+LA%C3%87OS+DA+VIDA-87964 |
 | 2026/11/29 | 1ª CORRIDA E CAMINHADA FUNDAÇÃO VILLARES | - | Sumaré | BRAVOS MARKETING ESPORTIVO | Aberto | https://www.ticketsports.com.br/e/1%C2%AA+CORRIDA+E+CAMINHADA+FUNDA%C3%87%C3%83O+VILLARES+-88802 |
 | 2026/11/29 | BES RUN 2026 | - | Boa Esperança do Sul | CABRINI SPORTS | Aberto | https://www.ticketsports.com.br/e/BES+RUN+2026-88831 |
-| 2026/11/29 | DESAFIO PICO DO OLHO D'ÁGUA | - | Mairiporã | CIRCUITO BIKES | Aberto | https://www.ticketsports.com.br/e/DESAFIO+PICO+DO+OLHO+D%27%C3%81GUA+-87434 |
 | 2026/12/05 | 2ª EDIÇÃO DA CORRIDA PORTO NOVO NIGHT RUN | - | Caraguatatuba | K10 MARKETING ESPORTIVO | Aberto | https://www.ticketsports.com.br/e/2%C2%AA+EDI%C3%87%C3%83O+DA+CORRIDA+PORTO+NOVO+NIGHT+RUN+-88327 |
 | 2026/12/05 | SALÉ CUP ENDURANCE 2026 | - | Salesópolis | Salé Cup MTB | Aberto | https://www.ticketsports.com.br/e/SAL%C3%89+CUP+ENDURANCE+2026-88477 |
 | 2026/12/05 | 5Km Freire Frutas | - | Jundiaí | FREIRE FRUTAS | Aberto | https://www.ticketsports.com.br/e/5Km+Freire+Frutas+-88940 |
@@ -118,12 +117,11 @@ Gerado em: 2026-11-23 19:15:27 (horário de São Paulo — UTC-3)
 | 2026/12/05 | KHUI EXPERIENCE EDIÇÃO NIGHT RUN 2026 | - | São Bernardo do Campo | K-HUI ACADEMIA | Aberto | https://www.ticketsports.com.br/e/KHUI+EXPERIENCE+EDI%C3%87%C3%83O+NIGHT+RUN+2026-88232 |
 | 2026/12/05 | 7ª CORRIDA ATIVA SOLIDÁRIA | - | Jaboticabal | Corrida Ativa Esportes | Aberto | https://www.ticketsports.com.br/e/7%C2%AA+CORRIDA+ATIVA+SOLID%C3%81RIA-88517 |
 | 2026/12/05 | CORRIDA CORONEL OLIVERIA JUNIOR - 11º GB | - | Taubaté | SUPER K MARKETING ESPORTIVO | Aberto | https://www.ticketsports.com.br/e/CORRIDA+CORONEL+OLIVERIA+JUNIOR+-+11%C2%BA+GB+-87587 |
-| 2026/12/05 | CORRIDA E CAMINHADA DE NATAL FARMA PONTE | - | Sorocaba | ASSOCIACAO DE ATLETISMO SANTI PEGORETTI | Aberto | https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+DE+NATAL+FARMA+PONTE-88385 |
 | 2026/12/05 | CORRIDA BOA DE NATAL | - | Jundiaí | Davelo | Aberto | https://www.ticketsports.com.br/e/CORRIDA+BOA+DE+NATAL-88852 |
 | 2026/12/06 | 2ª CORRIDA E CAMINHADA DA INCLUSÃO APAE POÁ | - | Poá | APAE de Poá | Aberto | https://www.ticketsports.com.br/e/2%C2%AA+CORRIDA+E+CAMINHADA+DA+INCLUS%C3%83O+APAE+PO%C3%81-86854 |
 | 2026/12/06 | TRAVESSIA POLIANA OKIMOTO 2026 - ETAPA BORA BORA | - | São Sebastião | VEGA ASSESSORIA | Aberto | https://www.ticketsports.com.br/e/TRAVESSIA+POLIANA+OKIMOTO+2026+-+ETAPA+BORA+BORA-86673 |
 | 2026/12/06 | 3ª CORRIDA DE MARCHI  - AÇAÍ SPORT | - | Jundiaí | Ideal 5k Sports | Aberto | https://www.ticketsports.com.br/e/3%C2%AA+CORRIDA+DE+MARCHI++-+A%C3%87A%C3%8D+SPORT+-86815 |
-| 2026/12/06 | 13º MOVIMENTA BATATAIS | - | Batatais | Chiptiming Ribeirão | Aberto | https://www.ticketsports.com.br/e/13%C2%BA+MOVIMENTA+BATATAIS-87644 |
+| 2026/12/06 | 13º MOVIMENTA BATATAIS | - | Batatais | ASSOCIAÇÃO  BENEFICENTE, DESPORTIVO E CULTURAL MOVIMENTA BATATAIS | Aberto | https://www.ticketsports.com.br/e/13%C2%BA+MOVIMENTA+BATATAIS-87644 |
 | 2026/12/06 | 3ª CORRIDA CATEDRAL METROPOLITANA DE CAMPINAS | - | Campinas | BRAVOS MARKETING ESPORTIVO | Aberto | https://www.ticketsports.com.br/e/3%C2%AA+CORRIDA+CATEDRAL+METROPOLITANA+DE+CAMPINAS-88282 |
 | 2026/12/06 | 9ª CORRIDA UNIFACCAMP | - | Campo Limpo Paulista | UHUW EVENTOS | Aberto | https://www.ticketsports.com.br/e/9%C2%AA+CORRIDA+UNIFACCAMP-88562 |
 | 2026/12/06 | RUN 21k - MEIA DA ESTRADA VELHA 2026 | - | São Bernardo do Campo | TUBIG SPORTS | Aberto | https://www.ticketsports.com.br/e/RUN+21k+-+MEIA+DA+ESTRADA+VELHA+2026-88670 |
@@ -154,19 +152,24 @@ Gerado em: 2026-11-23 19:15:27 (horário de São Paulo — UTC-3)
 | 2026/12/20 | 3ª CIRCUITO ALPHA BARUERI  EDIÇÃO ESPECIAL | - | Barueri | Saúde Sports Org | Aberto | https://www.ticketsports.com.br/e/3%C2%AA+CIRCUITO+ALPHA+BARUERI++EDI%C3%87%C3%83O+ESPECIAL-88069 |
 | 2026/12/20 | VAMO CORRER JUNTO - 2° EDIÇÃO | - | São Bernardo do Campo | Instituto da Mulher Brasileira | Aberto | https://www.ticketsports.com.br/e/VAMO+CORRER+JUNTO+-+2%C2%B0+EDI%C3%87%C3%83O-88461 |
 | 2026/12/20 | DESAFIO DE NATAL 2026 | - | São Vicente | ATP Marketing Esportivo | Aberto | https://www.ticketsports.com.br/e/DESAFIO+DE+NATAL+2026-88574 |
+| 2026/12/27 | CORRIDA DA VIRADA 2026 | - | Ribeirão Preto | RP SPORTS | Aberto | https://www.ticketsports.com.br/e/CORRIDA+DA+VIRADA+2026-88715 |
+| 2026/12/27 | SÃO VICENTE RUN 2026 | - | São Vicente | Educa Guarujá | Aberto | https://www.ticketsports.com.br/e/S%C3%83O+VICENTE+RUN+2026+-88698 |
+| 2026/12/30 | 35ª CORRIDA DE SÃO MIGUEL - JUQUEHY 2026 | - | São Sebastião | YPS Eventos Esportivos | Aberto | https://www.ticketsports.com.br/e/35%C2%AA+CORRIDA+DE+S%C3%83O+MIGUEL+-+JUQUEHY+2026-88917 |
+| 2026/12/31 | CIRCUITO CORRE SP 2027 | - | Piracicaba | Chelso Sports | Aberto | https://www.ticketsports.com.br/e/CIRCUITO+CORRE+SP+2027-88056 |
 | 2027/04/03 | 11ª Maratoninha de São Paulo | - | Campo de Marte | Yescom | breve | https://www.yescom.com.br/maratoninha/2027/index.html |
 | 2027/04/03 | 31ª Maratona Int'l de São Paulo - 2ª Corrida das Nações | - | Campo de Marte | Yescom | aberto | https://www.yescom.com.br/maratonasp/2027/index.asp |
+| 2027/05/09 | Corrida 106 Anos da Folha de São Paulo | - | Vale do Anhangabaú | Yescom | breve | https://yescom.com.br/ |
 | 2027/05/16 | 9ª Corrida do Café | - | Centro Histórico | Yescom | breve | https://yescom.com.br/ |
 | 2027/06/06 | 2ª Corrida Tom e Jerry | - | Campo de Marte | Yescom | breve | https://yescom.com.br/ |
 | 2027/06/13 | 3ª São Paulo Classic Run | - | Praça do Patriarca | Yescom | aberto | https://www.yescom.com.br/classicrun/2027/index.html |
-| 2027/06/27 | 8ª Corrida Superman e Supergirl | - | Obelisco Ibirapuera | Yescom | breve | https://yescom.com.br/ |
+| 2027/06/20 | 8ª Corrida Superman e Supergirl | - | Obelisco Ibirapuera | Yescom | breve | https://yescom.com.br/ |
 | 2027/08/01 | 4ª Hello Kitty Fun Run São Paulo | - | Obelisco Ibirapuera | Yescom | breve | https://yescom.com.br/ |
 | 2027/09/18 | 8ª Batman Run Series | - | Campo de Marte | Yescom | breve | https://yescom.com.br/ |
 | 2027/09/19 | 16ª Corrida Cartoon São Paulo | - | Campo de Marte | Yescom | breve | https://yescom.com.br/ |
 | 2027/10/17 | 2ª UOL Run Super 10K | - | Obelisco Ibirapuera | Yescom | breve | https://yescom.com.br/ |
 | 2027/11/07 | 35ª Corrida Mulher-Maravilha São Paulo | - | Ponte Estaiada | Yescom | breve | https://yescom.com.br/ |
 
-## Corridas Internacionais (2026/Nov/23)
+## Corridas Internacionais (2026/Nov/25)
 
 Nenhuma corrida encontrada.
 
